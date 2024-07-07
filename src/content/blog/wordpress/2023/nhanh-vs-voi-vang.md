@@ -1,13 +1,12 @@
 ---
-title: "\"Nhanh\" vs. \"vội vàng\""
+title: '"Nhanh" vs. "vội vàng"'
 date: '2023-10-01'
 pubDate: '2023-10-01'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "chatgpt"
+  - 'chatgpt'
 ---
 
 "Nhanh" and "vội vàng" both refer to speed or quickness in Vietnamese, but they are used in slightly different ways:

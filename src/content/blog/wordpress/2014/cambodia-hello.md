@@ -1,18 +1,17 @@
 ---
-title: "Cambodia - Hello cousin! =)"
+title: 'Cambodia - Hello cousin! =)'
 date: '2014-12-01'
 pubDate: '2014-12-01'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "cambodia"
-  - "cousin"
-  - "famille"
-  - "miammiam"
-  - "phnom-penh"
-  - "tourisme"
+  - 'cambodia'
+  - 'cousin'
+  - 'famille'
+  - 'miammiam'
+  - 'phnom-penh'
+  - 'tourisme'
 ---
 
 Bon, en attendant de rédiger des vrais articles avec du blabla, je voulais juste dire que j'ai passé un superbe weekend plein d'aventures et de retrouvailles ! :)

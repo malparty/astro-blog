@@ -1,21 +1,20 @@
 ---
-title: "Weekend à Cần Thơ – 2"
+title: 'Weekend à Cần Thơ – 2'
 date: '2014-11-09'
 pubDate: '2014-11-09'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "can-tho"
-  - "colocs"
-  - "local-life"
-  - "miammiam"
-  - "photo"
-  - "tourisme"
-  - "traditions"
-  - "vietnam-2"
-  - "voyage"
+  - 'can-tho'
+  - 'colocs'
+  - 'local-life'
+  - 'miammiam'
+  - 'photo'
+  - 'tourisme'
+  - 'traditions'
+  - 'vietnam-2'
+  - 'voyage'
 ---
 
 Le samedi soir, après toutes ces visites, nous sommes arrivés chez la famille de Peter. Une famille très accueillante, dans une maison très vietnamienne : salle de vie en premier plan (qui est aussi la chambre à coucher), puis chambres des enfants/invités, puis la cuisine derrière. Cette dernière est à l’intérieur et à l’extérieur. =)

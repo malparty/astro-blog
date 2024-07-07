@@ -2,16 +2,15 @@
 title: "C'est party !"
 date: '2014-10-07'
 pubDate: '2014-10-07'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "avion"
-  - "debut"
-  - "tourisme"
-  - "vietnam-2"
-  - "voyage"
+  - 'avion'
+  - 'debut'
+  - 'tourisme'
+  - 'vietnam-2'
+  - 'voyage'
 ---
 
 Après un weekend très chargé avec notamment le mariage de ma cousine, c’est partis pour une nouvelle aventure. Ça nous fait donc du samedi soir, couché à 5 heures du matin, dimanche soir, réveil réglé à 4h30 du matin… Histoire de bien commencer le jetlag dans le sens inverse ><.

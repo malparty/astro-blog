@@ -1,17 +1,16 @@
 ---
-title: "Tyrol - Sölden 2013"
+title: 'Tyrol - Sölden 2013'
 date: '2013-07-29'
 pubDate: '2013-07-29'
-category: "ifttt"
-  - "travels"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "autriche"
-  - "miammiam"
-  - "solden"
-  - "tourisme"
-  - "tyrol"
+  - 'autriche'
+  - 'miammiam'
+  - 'solden'
+  - 'tourisme'
+  - 'tyrol'
 ---
 
 En Chine, ce qui m'avait manqué, c'était l'air frai, les odeurs dans les alpages, les plats de la montagne, le sport d'évasion et le ciel bleu embelli par l'un ou l'autre cumulus. C'est bon, j'ai fait le plein pour les 2 prochaines années !

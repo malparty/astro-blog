@@ -1,13 +1,12 @@
 ---
-title: "Ride and observe!"
+title: 'Ride and observe!'
 date: '2020-01-28'
 pubDate: '2020-01-28'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "bicycle"
+  - 'bicycle'
 ---
 
 This was in a small village near Cau Phu My bridge.

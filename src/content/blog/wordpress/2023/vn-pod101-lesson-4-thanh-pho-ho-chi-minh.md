@@ -1,14 +1,16 @@
 ---
-title: "VN pod101 lesson 4: Thành Phố Hồ Chí Minh"
+title: 'VNpod101 Thành Phố Hồ Chí Minh'
 date: '2023-08-12'
 pubDate: '2023-08-12'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 > These are my learning notes from [VietnamesePod101.com lesson 4.2](https://www.vietnamesepod101.com/lesson/advanced-audio-blog-2-top-10-vietnamese-regions-and-cities-ho-chi-minh-city?lp=111).
 
-# Vocabulary
+## Vocabulary
 
 Make a list of unfamiliar words from the text and look up their meanings in a Vietnamese-English dictionary.  
 Create flashcards with the Vietnamese words on one side and their English translations on the other. Review them regularly to reinforce your memory.
@@ -101,7 +103,7 @@ Create flashcards with the Vietnamese words on one side and their English transl
 
 **Read the text aloud to improve your pronunciation and fluency.** **After reading, summarize each paragraph in Vietnamese, focusing on key points.**
 
-#### My version
+### My version
 
 #### Corrected summary (Chat GPT)
 

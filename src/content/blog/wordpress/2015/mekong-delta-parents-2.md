@@ -1,17 +1,16 @@
 ---
-title: "Mekong Delta avec les Parents et les 3 Vi! (Suite)"
+title: 'Mekong Delta avec les Parents et les 3 Vi! (Suite)'
 date: '2015-02-11'
 pubDate: '2015-02-11'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "fleuve"
-  - "mekong"
-  - "pecheurs"
-  - "photo"
-  - "riviere"
+  - 'fleuve'
+  - 'mekong'
+  - 'pecheurs'
+  - 'photo'
+  - 'riviere'
 ---
 
 [![Mekong-Delta-05min](http://malparty.fr/wp-content/uploads/2015/09/Mekong-Delta-05min.jpg)](http://malparty.fr/wp-content/uploads/2015/09/Mekong-Delta-05.jpg)

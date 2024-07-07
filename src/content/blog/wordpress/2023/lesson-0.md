@@ -1,9 +1,11 @@
 ---
-title: "Lesson 0 – Intro"
+title: 'Lesson 0 – Intro'
 date: '2023-11-02'
 pubDate: '2023-11-02'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 # Corrections

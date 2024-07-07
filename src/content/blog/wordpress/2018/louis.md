@@ -3,6 +3,9 @@ title: 'Louis!!!'
 date: '2018-07-22'
 pubDate: '2018-07-22'
 category: 'vietnam'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 Not easy for a dog to live in a crawled city! So welcome for countryside Louis!

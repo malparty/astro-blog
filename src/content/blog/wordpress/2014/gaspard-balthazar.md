@@ -2,17 +2,16 @@
 title: "C'est Gaspard & Balthazar!"
 date: '2014-11-13'
 pubDate: '2014-11-13'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "animaux"
-  - "cafard"
-  - "chambre"
-  - "lezard"
-  - "local-life"
-  - "vietnam-2"
+  - 'animaux'
+  - 'cafard'
+  - 'chambre'
+  - 'lezard'
+  - 'local-life'
+  - 'vietnam-2'
 ---
 
 [![Gaspard et Balthazar](http://malparty.fr/wp-content/uploads/2014/11/GaspardEtBalthazar.jpg)](http://malparty.fr/wp-content/uploads/2014/11/GaspardEtBalthazar.jpg)

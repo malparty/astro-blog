@@ -1,17 +1,16 @@
 ---
-title: "Bref, j'ai mangé un \"Special Egg\""
+title: 'Bref, j''ai mangé un "Special Egg"'
 date: '2014-10-15'
 pubDate: '2014-10-15'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "colocs"
-  - "local-life"
-  - "miammiam"
-  - "vietnam-2"
-  - "voyage"
+  - 'colocs'
+  - 'local-life'
+  - 'miammiam'
+  - 'vietnam-2'
+  - 'voyage'
 ---
 
 A chaque fois que mes colocs me font gouter un nouveau plat bien local, ils me demandent si j'aime ou pas. Bien sûr, à chaque fois je réponds "Ahh, mais c'est trop trop bon ça !! :D". Alors à force, elles se sont posées des questions : "Est-ce qu'il dit ça pour nous faire plaisir, ou bien est-ce que c'est vraiment un bouffe-tout???".

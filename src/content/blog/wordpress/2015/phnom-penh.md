@@ -1,17 +1,16 @@
 ---
-title: "Cambodge - Phnom Penh - 2"
+title: 'Cambodge - Phnom Penh - 2'
 date: '2015-09-26'
 pubDate: '2015-09-26'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "cambodia"
-  - "cousin"
-  - "phnom-penh"
-  - "tourisme"
-  - "visa"
+  - 'cambodia'
+  - 'cousin'
+  - 'phnom-penh'
+  - 'tourisme'
+  - 'visa'
 ---
 
 Cambodge... Cambodge... C'est marrent comme on peut être dépayser en ne bougeant que de 450km... :)

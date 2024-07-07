@@ -1,14 +1,13 @@
 ---
-title: "50+ km on an old 1 gear city bicycle? Deal! &#x1f6b2;"
+title: '50+ km on an old 1 gear city bicycle? Deal! &#x1f6b2;'
 date: '2019-11-30'
 pubDate: '2019-11-30'
-category: "le-chez-soi"
-  - "vietnam"
+category: 'le-chez-soi'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "bicycle"
-  - "ho-chi-minh-city"
+  - 'bicycle'
+  - 'ho-chi-minh-city'
 ---
 
 <figure>

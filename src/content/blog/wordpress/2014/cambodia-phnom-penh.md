@@ -1,17 +1,16 @@
 ---
-title: "Cambodia - Phnom Penh"
+title: 'Cambodia - Phnom Penh'
 date: '2014-12-27'
 pubDate: '2014-12-27'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "cambodia"
-  - "mekong"
-  - "miammiam"
-  - "phnom-phen"
-  - "tourisme"
+  - 'cambodia'
+  - 'mekong'
+  - 'miammiam'
+  - 'phnom-phen'
+  - 'tourisme'
 ---
 
 Bon, une chose est sûre : au Cambodge on mange tout aussi bien qu’au Vietnam, même si c’est différent ! ;)

@@ -2,12 +2,11 @@
 title: "Don't panic and have a Cà Phê"
 date: '2020-03-28'
 pubDate: '2020-03-28'
-category: "le-chez-soi"
-  - "vietnam"
+category: 'le-chez-soi'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "animaux"
+  - 'animaux'
 ---
 
 <figure>

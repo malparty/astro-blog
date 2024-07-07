@@ -1,14 +1,13 @@
 ---
-title: "Best way to use airplane time!!!"
+title: 'Best way to use airplane time!!!'
 date: '2019-10-24'
 pubDate: '2019-10-24'
-category: "music"
-  - "travels"
+category: 'music'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "digitakt"
-  - "elektron"
+  - 'digitakt'
+  - 'elektron'
 ---
 
 ![](http://malparty.fr/wp-content/uploads/2020/03/img_20191023_110424761300490030040631.jpg)

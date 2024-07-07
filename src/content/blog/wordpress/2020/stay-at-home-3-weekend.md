@@ -1,19 +1,18 @@
 ---
-title: "Stay at home - #3 weekend &#x1f3da;"
+title: 'Stay at home - #3 weekend &#x1f3da;'
 date: '2020-04-05'
 pubDate: '2020-04-05'
-category: "le-chez-soi"
-  - "music"
+category: 'music'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "digitakt"
-  - "electro"
-  - "elektron"
-  - "home"
-  - "jam"
-  - "novation"
-  - "x-station"
+  - 'digitakt'
+  - 'electro'
+  - 'elektron'
+  - 'home'
+  - 'jam'
+  - 'novation'
+  - 'x-station'
 ---
 
 This weekend, at home, I wanted to jam some electro music and finally I end up spending more time discovering Resolve (video editing tool, free version).

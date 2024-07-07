@@ -1,9 +1,11 @@
 ---
-title: "De retour!"
+title: 'De retour!'
 date: '2016-10-14'
 pubDate: '2016-10-14'
-category: "travels"
-  - "vietnam"
+category: 'travels'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 Hello, juste pour dire que je suis de retour et vais pouvoir à nouveau publier quelques photos sur mon blog :)

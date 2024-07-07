@@ -1,10 +1,18 @@
 ---
-title: "1ere Visite dans province de Thu (Hồ Xá) - Suite"
+title: '1ere Visite dans province de Thu (Hồ Xá) - Suite'
 date: '2015-12-13'
 pubDate: '2015-12-13'
-category: "le-chez-soi"
-  - "travels"
-  - "vietnam"
+category: 'le-chez-soi'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags:
+  - 'bus'
+  - 'ho-xa'
+  - 'hometown'
+  - 'hue'
+  - 'vietnam-2'
+---
+
 ---
 
 Hồ Xá, c'est loins de la ville. Il va de soit qu'on n'y offre pas de l'argent mais des choses bien plus utiles. Lait, fruits, snacks, etc... Et parfois même des poulets ou des cochons!

@@ -1,9 +1,11 @@
 ---
-title: "New Offices are... Huge!"
+title: 'New Offices are... Huge!'
 date: '2017-11-03'
 pubDate: '2017-11-03'
-category: "pro"
-  - "vietnam"
+category: 'vietnam'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 Here is just a preview! We have 2 entrances like that!

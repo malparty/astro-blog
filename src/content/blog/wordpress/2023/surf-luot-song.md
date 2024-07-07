@@ -1,13 +1,12 @@
 ---
-title: "Surf (lướt sóng)"
+title: 'Surf (lướt sóng)'
 date: '2023-10-01'
 pubDate: '2023-10-01'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "surf"
+  - 'surf'
 ---
 
 thủy triều cao, thủy triều thấp (tide low/high)  

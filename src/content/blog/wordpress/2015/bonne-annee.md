@@ -1,14 +1,13 @@
 ---
-title: "Bonne année ! :)"
+title: 'Bonne année ! :)'
 date: '2015-01-05'
 pubDate: '2015-01-05'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "fireworks"
-  - "party"
+  - 'fireworks'
+  - 'party'
 ---
 
 Bonne année à tous !! =) Une fois n'est pas coutume, la photo n'est pas de moi -- trouvée sur SkyScraper City :p

@@ -1,16 +1,15 @@
 ---
-title: "Budapest from Artists"
+title: 'Budapest from Artists'
 date: '2013-08-21'
 pubDate: '2013-08-21'
-category: "travels"
-  - "x-from-y"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "artist"
-  - "budapest"
-  - "photo"
-  - "tourisme"
+  - 'artist'
+  - 'budapest'
+  - 'photo'
+  - 'tourisme'
 ---
 
 [![Budapest Art](http://malparty.fr/wp-content/uploads/2013/08/buda_art_2-1024x768.jpg)](http://malparty.fr/wp-content/uploads/2013/08/buda_art_2.jpg)

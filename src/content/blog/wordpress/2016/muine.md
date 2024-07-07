@@ -1,17 +1,16 @@
 ---
-title: "Mui Ne - Tet Holidays 2016"
+title: 'Mui Ne - Tet Holidays 2016'
 date: '2016-02-14'
 pubDate: '2016-02-14'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "dunes"
-  - "mui-ne"
-  - "pecheurs"
-  - "plage"
-  - "tourisme"
+  - 'dunes'
+  - 'mui-ne'
+  - 'pecheurs'
+  - 'plage'
+  - 'tourisme'
 ---
 
 Après Ke Ga on est donc allé sur Mui Ne où les plages sont plus convoités mais surtout plus propres (Ke Ga est beau de loin mais les plages sont pleines de plastique et autre déchets malheureusement).

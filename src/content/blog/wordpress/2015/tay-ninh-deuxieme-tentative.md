@@ -1,18 +1,17 @@
 ---
-title: "Tây Ninh - Deuxième tentative!"
+title: 'Tây Ninh - Deuxième tentative!'
 date: '2015-09-13'
 pubDate: '2015-09-13'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "lac"
-  - "montagne"
-  - "photo"
-  - "randonnee"
-  - "tay-ninh"
-  - "vietnam-2"
+  - 'lac'
+  - 'montagne'
+  - 'photo'
+  - 'randonnee'
+  - 'tay-ninh'
+  - 'vietnam-2'
 ---
 
 Réveil matin très tôt pour visiter un  lac non loin de la montagne. C'est un lac artificiel mais immense ! Paysage de plage... sans plage! [![TayNinh01-sm](http://malparty.fr/wp-content/uploads/2015/09/TayNinh01-sm.jpg)](http://malparty.fr/wp-content/uploads/2015/09/TayNinh01.jpg)

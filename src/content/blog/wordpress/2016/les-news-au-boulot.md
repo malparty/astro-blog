@@ -1,10 +1,11 @@
 ---
-title: "Les news au boulot!"
+title: 'Les news au boulot!'
 date: '2016-10-15'
 pubDate: '2016-10-15'
-category: "pro"
-  - "travels"
-  - "vietnam"
+category: 'travels'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 Et non, on ne chome pas ici! Entre le post-it art et les tournages videos, pas le temps de s'ennuyer!

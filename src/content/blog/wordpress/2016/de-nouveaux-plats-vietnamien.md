@@ -1,13 +1,12 @@
 ---
-title: "De nouveaux plats Vietnamien"
+title: 'De nouveaux plats Vietnamien'
 date: '2016-10-16'
 pubDate: '2016-10-16'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "miammiam"
+  - 'miammiam'
 ---
 
 La cuisine du Vietnam est extrêmement variée. Aujouurdhui encore je découvre des plats nouveaux. Les voici!

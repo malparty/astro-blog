@@ -3,6 +3,9 @@ title: '"Thoả thuận"'
 date: '2023-06-05'
 pubDate: '2023-06-05'
 category: 'vietnamese'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 Three sentences containing the word "thoả thuận" along with their English translations:

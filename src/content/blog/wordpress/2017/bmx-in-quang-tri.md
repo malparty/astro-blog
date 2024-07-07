@@ -1,16 +1,15 @@
 ---
-title: "BMX in Quang Tri"
+title: 'BMX in Quang Tri'
 date: '2017-02-01'
 pubDate: '2017-02-01'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "bmx"
-  - "hometown"
-  - "quang-tri"
-  - "vtt"
+  - 'bmx'
+  - 'hometown'
+  - 'quang-tri'
+  - 'vtt'
 ---
 
 No one to move out ? Let's fix the old BMX and go for a ride of 30 km (with a BMX, trust me it's a lot !)

@@ -1,20 +1,19 @@
 ---
-title: "Núi Bà Đen – 02"
+title: 'Núi Bà Đen – 02'
 date: '2014-12-09'
 pubDate: '2014-12-09'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "camping"
-  - "montagne"
-  - "moto"
-  - "photo"
-  - "pluie"
-  - "randonnee"
-  - "sacree"
-  - "tourisme"
+  - 'camping'
+  - 'montagne'
+  - 'moto'
+  - 'photo'
+  - 'pluie'
+  - 'randonnee'
+  - 'sacree'
+  - 'tourisme'
 ---
 
 \[La Suite\]

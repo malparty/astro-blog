@@ -1,16 +1,15 @@
 ---
-title: "Wardley Maps - Simon Wardley"
+title: 'Wardley Maps - Simon Wardley'
 date: '2020-10-21'
 pubDate: '2020-10-21'
-category: "conferences"
-  - "learn"
+category: 'conferences'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "goto-conf"
-  - "mapping"
-  - "strategy"
-  - "wardley-maps"
+  - 'goto-conf'
+  - 'mapping'
+  - 'strategy'
+  - 'wardley-maps'
 ---
 
 Thanks to Younès, I have discovered a few years ago the concept of "Wardley Maps".

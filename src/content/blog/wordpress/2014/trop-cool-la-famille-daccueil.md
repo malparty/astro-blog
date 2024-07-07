@@ -2,15 +2,14 @@
 title: "Trop cool la famille d'accueil"
 date: '2014-11-05'
 pubDate: '2014-11-05'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "colocs"
-  - "local-life"
-  - "miammiam"
-  - "vietnam-2"
+  - 'colocs'
+  - 'local-life'
+  - 'miammiam'
+  - 'vietnam-2'
 ---
 
 Matin, réveil 7 heure, grosse journée en vue... 8 heure petit déjeunez au boulot (histoire de faire sécher la transpiration du vélo avant de commencer à bosser!) :D

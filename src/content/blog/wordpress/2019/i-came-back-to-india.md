@@ -1,15 +1,14 @@
 ---
-title: "I came back to India! &#x1f6fa;"
+title: 'I came back to India! &#x1f6fa;'
 date: '2019-12-03'
 pubDate: '2019-12-03'
-category: "pro"
-  - "travels"
+category: 'vietnam'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "afterwork"
-  - "india"
-  - "local-food"
+  - 'afterwork'
+  - 'india'
+  - 'local-food'
 ---
 
 ...and it was an incredible surprise! The team their is amazing, fun and diversified! Good job Mister Flo, good job you guys!!

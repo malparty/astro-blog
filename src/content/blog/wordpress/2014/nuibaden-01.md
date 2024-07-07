@@ -1,20 +1,19 @@
 ---
-title: "Núi Bà Đen - 01"
+title: 'Núi Bà Đen - 01'
 date: '2014-11-24'
 pubDate: '2014-11-24'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "artist"
-  - "montagne"
-  - "olympus"
-  - "photo"
-  - "temple"
-  - "traditions"
-  - "vietnam-2"
-  - "voyage"
+  - 'artist'
+  - 'montagne'
+  - 'olympus'
+  - 'photo'
+  - 'temple'
+  - 'traditions'
+  - 'vietnam-2'
+  - 'voyage'
 ---
 
 Ce weekend, c'était sortie camping dans la région de Tay Ninh. L'objectif étant de faire un levé de soleil sur la "Black Virgin Mountain" (Núi Bà Đen). Bon, la météo ne nous à pas permis de faire le lever du soleil et j'vais vous raconter ça en détail dans le second article sur ce weekend. Mais c'était quand même bien fun et l'endroit était bien sympa ! (malgré la mentalités des gens qui jettent déchets et détritus partout par terre dans la montagne !! ><).

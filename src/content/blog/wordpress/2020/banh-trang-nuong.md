@@ -1,15 +1,13 @@
 ---
-title: "Bánh Tráng Nướng"
+title: 'Bánh Tráng Nướng'
 date: '2020-04-19'
 pubDate: '2020-04-19'
-category: "le-chez-soi"
-  - "travels"
-  - "vietnam"
+category: 'le-chez-soi'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "local-food"
-  - "street-food"
+  - 'local-food'
+  - 'street-food'
 ---
 
 https://www.youtube.com/watch?v=AphPduz9QDU

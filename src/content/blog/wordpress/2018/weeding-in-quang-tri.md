@@ -3,6 +3,9 @@ title: 'Weeding in Quang Tri'
 date: '2018-07-21'
 pubDate: '2018-07-21'
 category: 'vietnam'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 Here we go, my brother in law is getting married!

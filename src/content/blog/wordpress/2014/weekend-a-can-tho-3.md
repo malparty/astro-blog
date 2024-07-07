@@ -1,19 +1,18 @@
 ---
-title: "Weekend à Cần Thơ – 3"
+title: 'Weekend à Cần Thơ – 3'
 date: '2014-11-09'
 pubDate: '2014-11-09'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "bateau"
-  - "can-tho"
-  - "local-life"
-  - "mekong"
-  - "traditions"
-  - "vietnam-2"
-  - "voyage"
+  - 'bateau'
+  - 'can-tho'
+  - 'local-life'
+  - 'mekong'
+  - 'traditions'
+  - 'vietnam-2'
+  - 'voyage'
 ---
 
 Dimanche, on se repose le matin, puis c’est parti pour reprendre la route en direction de Saigon. Oui, mais pas n’importe quelle route : pour passer par le village d’où sont originaire mes collocs, nous avons traversé le Mékong à bateau, puis emprunté des routes plus petites mais bien plus agréables que l’autoroute poussiéreuse ! =)

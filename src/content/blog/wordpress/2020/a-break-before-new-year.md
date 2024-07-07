@@ -1,13 +1,12 @@
 ---
-title: "A break before New year!"
+title: 'A break before New year!'
 date: '2020-01-12'
 pubDate: '2020-01-12'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "nha-trang"
+  - 'nha-trang'
 ---
 
 As we finally had a whole weekend free together, and during the low tourism season (2weeks before Tet), it was a perfect weekend for us to enjoy and rediscover Nha Trang!

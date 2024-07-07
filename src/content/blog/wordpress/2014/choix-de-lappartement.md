@@ -1,17 +1,16 @@
 ---
-title: "Choix de l’appartement"
+title: 'Choix de l’appartement'
 date: '2014-10-12'
 pubDate: '2014-10-12'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "appart"
-  - "colocs"
-  - "hotel"
-  - "local-life"
-  - "vietnam-2"
+  - 'appart'
+  - 'colocs'
+  - 'hotel'
+  - 'local-life'
+  - 'vietnam-2'
 ---
 
 Pour commencer mon séjour, je suis allé à l’hôtel. Mais cet aspect « instable » de l’hôtel est toujours un peu dérangeant et mon but était donc de trouver un logement le plus rapidement possible.

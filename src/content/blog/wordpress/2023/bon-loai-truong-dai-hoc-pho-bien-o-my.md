@@ -1,14 +1,16 @@
 ---
-title: "Bốn loại trường đại học phổ biến ở Mỹ"
+title: 'Bốn loại trường đại học phổ biến ở Mỹ'
 date: '2023-07-15'
 pubDate: '2023-07-15'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 This lesson refers to the following article: [Bốn loại trường đại học phổ biến ở Mỹ](https://vnexpress.net/bon-loai-truong-dai-hoc-pho-bien-o-my-4627010.html)
 
-# Vocabulary
+## Vocabulary
 
 Vocabulary (untranslated)
 
@@ -150,7 +152,7 @@ Vocabulary (translated)
 
 - toàn diện: comprehensive, overview, full
 
-# Grammar
+## Grammar
 
 ### cả... lẫn...
 

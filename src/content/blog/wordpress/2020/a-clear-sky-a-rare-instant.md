@@ -1,16 +1,15 @@
 ---
-title: "A clear sky - A rare instant"
+title: 'A clear sky - A rare instant'
 date: '2020-12-24'
 pubDate: '2020-12-24'
-category: "le-chez-soi"
-  - "skyscrapercity"
+category: 'le-chez-soi'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "noel"
-  - "pollution"
-  - "saigon"
-  - "skyline"
+  - 'noel'
+  - 'pollution'
+  - 'saigon'
+  - 'skyline'
 ---
 
 Clear sky was granted in France country side. So I never really paid attention to it.

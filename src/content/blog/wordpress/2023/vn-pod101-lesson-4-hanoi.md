@@ -1,14 +1,16 @@
 ---
-title: "VN pod101 lesson 4: Hanoi"
+title: 'VNpod101 Hanoi'
 date: '2023-07-30'
 pubDate: '2023-07-30'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 > These are my learning notes from VietnamesePod101.com lesson 4.1.
 
-# Vocabulary
+## Vocabulary
 
 Make a list of unfamiliar words from the text and look up their meanings in a Vietnamese-English dictionary.  
 Create flashcards with the Vietnamese words on one side and their English translations on the other. Review them regularly to reinforce your memory.
@@ -63,7 +65,7 @@ Create flashcards with the Vietnamese words on one side and their English transl
 
 **Read the text aloud to improve your pronunciation and fluency.** **After reading, summarize each paragraph in Vietnamese, focusing on key points.**
 
-#### My version
+### My version
 
 > ok ok I was a bit fast and did not make enough effort 🙈
 
@@ -75,7 +77,7 @@ Lịch sư nên van hoa cửa Hà Nội rất cũ. Nhưng mà trúc khi 200 năm
 
 Tai Hà Nọi cũng có một nơi rất phổ biến là Lăng Hồ Chí Minh.
 
-#### Corrected summary (Chat GPT)
+### Corrected summary (Chat GPT)
 
 "Mặc dù Hà Nội là thủ đô của nước Việt Nam và có dân số khoảng 6,5 triệu người sinh sống trong khu vực đô thị"
 

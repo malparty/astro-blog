@@ -1,13 +1,12 @@
 ---
-title: "Thì vs. Nên mới"
+title: 'Thì vs. Nên mới'
 date: '2023-11-24'
 pubDate: '2023-11-24'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "chatgpt"
+  - 'chatgpt'
 ---
 
 "Thì" and "nên mới" are both conjunctions in Vietnamese, but they are used in different contexts and convey different meanings.

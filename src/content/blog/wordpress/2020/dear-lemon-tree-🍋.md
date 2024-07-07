@@ -1,13 +1,12 @@
 ---
-title: "Dear lemon tree &#x1f34b;"
+title: 'Dear lemon tree &#x1f34b;'
 date: '2020-01-29'
 pubDate: '2020-01-29'
-category: "le-chez-soi"
-  - "vietnam"
+category: 'le-chez-soi'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "lemon-tree"
+  - 'lemon-tree'
 ---
 
 Are you half dead or half alive?

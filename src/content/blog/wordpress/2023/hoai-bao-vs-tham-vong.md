@@ -1,13 +1,12 @@
 ---
-title: "\"Hoài bão\" vs. \"tham vọng\""
+title: '"Hoài bão" vs. "tham vọng"'
 date: '2023-10-01'
 pubDate: '2023-10-01'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "chatgpt"
+  - 'chatgpt'
 ---
 
 "Hoài bão" and "tham vọng" both relate to aspirations or ambitions, but they carry different nuances:

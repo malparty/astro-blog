@@ -1,9 +1,11 @@
 ---
-title: "Vocabulary practice"
+title: 'Vocabulary practice'
 date: '2023-08-27'
 pubDate: '2023-08-27'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 > Dialogue Text 48 – Cooking for friends (B1)

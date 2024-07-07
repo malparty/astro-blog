@@ -1,12 +1,14 @@
 ---
-title: "Lesson 3"
+title: 'Lesson 3'
 date: '2023-11-24'
 pubDate: '2023-11-24'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
-# Một chuyến đi đáng nhớ
+## Một chuyến đi đáng nhớ
 
 chuyến đi ⇒ a trip
 
@@ -60,7 +62,7 @@ Used to describe the top or the tip of an object:
 
 - hơi cay
 
-# Open discussion
+## Open discussion
 
 đi công tác = business trip
 
@@ -126,7 +128,7 @@ Lunar & Gregorian calendars:
 
 âm lịch: mồng/mùng 1,2,3… (days numbers in lunar calendar)
 
-# Homework
+## Homework
 
 ✔️ check my notebook if I missed anything in this document 👀
 

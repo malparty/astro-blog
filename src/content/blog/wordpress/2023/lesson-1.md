@@ -1,12 +1,14 @@
 ---
-title: "Lesson 1"
+title: 'Lesson 1'
 date: '2023-11-08'
 pubDate: '2023-11-08'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
-# Vocabulary
+## Vocabulary
 
 ### rồi
 
@@ -163,7 +165,7 @@ to appreciate, savor, enjoy (looking at, watching)...
 
 - Mình thích nhất là được ngắm một bình minh trong khi lướt sóng.
 
-# Pronunciation
+## Pronunciation
 
 ### ơ vs. ư
 
@@ -187,7 +189,7 @@ to appreciate, savor, enjoy (looking at, watching)...
 
 - dấu nặng – under dot **.**
 
-# Oral/Writing Expression
+## Oral/Writing Expression
 
 ### TODO:
 

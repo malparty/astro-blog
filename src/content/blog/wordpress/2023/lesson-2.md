@@ -1,12 +1,14 @@
 ---
-title: "Lesson 2"
+title: 'Lesson 2'
 date: '2023-11-18'
 pubDate: '2023-11-18'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
-# Vocabulary
+## Vocabulary
 
 Vui và mừng
 
@@ -83,7 +85,7 @@ Ai chơi quả bóng? → Quả bóng do ai chơi?
 
 mách: tôi sẽ mách mẹ!! 👶
 
-# Oral expression
+## Oral expression
 
 ### Hôm nay bạn đã ăn gì?
 
@@ -101,7 +103,7 @@ Vợ nấu bữa trưa. Chúng tôi đã ăn nhiều món ngon:
 
 Ngày xưa Xù thấy chưa quen ăn mặn vào buổi sáng vì ở Pháp ăn ngọt.
 
-# Reading comprehension
+## Reading comprehension
 
 ### Làn sóng sa thải thử thách sinh viên IT Việt Nam
 

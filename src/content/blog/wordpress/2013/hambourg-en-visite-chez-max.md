@@ -1,18 +1,17 @@
 ---
-title: "Hambourg, en visite chez MAx !"
+title: 'Hambourg, en visite chez MAx !'
 date: '2013-07-17'
 pubDate: '2013-07-17'
-category: "ifttt"
-  - "travels"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "constructions"
-  - "hambourg"
-  - "maxence"
-  - "photo"
-  - "tourisme"
-  - "voyage"
+  - 'constructions'
+  - 'hambourg'
+  - 'maxence'
+  - 'photo'
+  - 'tourisme'
+  - 'voyage'
 ---
 
 Après avoir passé une petite semaine bien chargée à Hambourg, je ne la vois plus du tout comme avant ! ><’

@@ -1,15 +1,14 @@
 ---
-title: "Cambodge - Phnom Penh 2 - Cousin"
+title: 'Cambodge - Phnom Penh 2 - Cousin'
 date: '2015-09-28'
 pubDate: '2015-09-28'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "cambodia"
-  - "cousin"
-  - "phnom-penh"
+  - 'cambodia'
+  - 'cousin'
+  - 'phnom-penh'
 ---
 
 Puis après avoir mangé, on a rejoin la résidence de Doug. Chouette de profiter d'une vue à 360 deg sur la ville!

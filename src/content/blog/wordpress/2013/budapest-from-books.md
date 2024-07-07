@@ -1,15 +1,14 @@
 ---
-title: "Budapest from books"
+title: 'Budapest from books'
 date: '2013-08-20'
 pubDate: '2013-08-20'
-category: "travels"
-  - "x-from-y"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "budapest"
-  - "photo"
-  - "tourisme"
+  - 'budapest'
+  - 'photo'
+  - 'tourisme'
 ---
 
 [![Parlement de Budapest](http://malparty.fr/wp-content/uploads/2013/08/budapest_in_books3-1024x576.jpg)](http://malparty.fr/wp-content/uploads/2013/08/budapest_in_books3.jpg)

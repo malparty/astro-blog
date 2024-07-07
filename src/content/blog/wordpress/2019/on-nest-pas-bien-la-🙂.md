@@ -2,13 +2,12 @@
 title: "On n'est pas bien là ? &#x1f642;"
 date: '2019-11-29'
 pubDate: '2019-11-29'
-category: "le-chez-soi"
-  - "vietnam"
+category: 'le-chez-soi'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "appart"
-  - "coffee"
+  - 'appart'
+  - 'coffee'
 ---
 
 The best coffee shop is and remains home! 🏢

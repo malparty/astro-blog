@@ -2,15 +2,14 @@
 title: "L'aéroport de Frankfort"
 date: '2016-01-13'
 pubDate: '2016-01-13'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "flight"
-  - "frankfort"
-  - "germany"
-  - "lufthansa"
+  - 'flight'
+  - 'frankfort'
+  - 'germany'
+  - 'lufthansa'
 ---
 
 Et bien il est moderne, géant, exemplaire et bien organisé.

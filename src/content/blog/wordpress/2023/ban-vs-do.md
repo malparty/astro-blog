@@ -1,13 +1,12 @@
 ---
-title: "\"bẩn\" vs. \"dơ\""
+title: '"bẩn" vs. "dơ"'
 date: '2023-10-01'
 pubDate: '2023-10-01'
-category: "learn"
-  - "vietnamese"
+category: 'learn'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "chatgpt"
+  - 'chatgpt'
 ---
 
 1. **"Bẩn":** This word generally refers to something that is physically dirty or unclean. It can describe objects, surfaces, or places that are not clean. For example, if a shirt has mud on it, you could say "áo bẩn" (dirty shirt). This term is more commonly used for things and places rather than people.

@@ -1,19 +1,16 @@
 ---
-title: "1ere Visite dans province de Thu (Hồ Xá)"
+title: '1ere Visite dans province de Thu (Hồ Xá)'
 date: '2015-12-06'
 pubDate: '2015-12-06'
-category: "le-chez-soi"
-  - "travels"
-  - "vietnam"
+category: 'le-chez-soi'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "bus"
-  - "ho-xa"
-  - "hometown"
-  - "hue"
-  - "thu"
-  - "vietnam-2"
+  - 'bus'
+  - 'ho-xa'
+  - 'hometown'
+  - 'hue'
+  - 'vietnam-2'
 ---
 
 Déjà, pour se rendre à Hồ Xá, ce n'est pas facile.

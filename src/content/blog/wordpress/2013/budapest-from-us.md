@@ -1,18 +1,16 @@
 ---
-title: "Budapest from us"
+title: 'Budapest from us'
 date: '2013-08-21'
 pubDate: '2013-08-21'
-category: "ifttt"
-  - "travels"
-  - "x-from-y"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "alternatif"
-  - "budapest"
-  - "photo"
-  - "social-life"
-  - "tourisme"
+  - 'alternatif'
+  - 'budapest'
+  - 'photo'
+  - 'social-life'
+  - 'tourisme'
 ---
 
 [![Budapest, ville alternative](http://malparty.fr/wp-content/uploads/2013/08/WP_000143-767x1024.jpg)](http://malparty.fr/wp-content/uploads/2013/08/WP_000143.jpg)

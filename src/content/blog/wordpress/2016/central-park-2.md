@@ -3,6 +3,9 @@ title: 'Central Park 2'
 date: '2016-12-02'
 pubDate: '2016-12-02'
 category: 'skyscrapercity'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 Some pictures of the view.

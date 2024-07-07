@@ -1,9 +1,11 @@
 ---
-title: "Boat trip in Saigon"
+title: 'Boat trip in Saigon'
 date: '2017-02-15'
 pubDate: '2017-02-15'
-category: "travels"
-  - "vietnam"
+category: 'travels'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 [![](http://malparty.fr/wp-content/uploads/2017/02/wp-1487168387146.jpg)](http://malparty.fr/wp-content/uploads/2017/02/wp-1487168387146.jpg)

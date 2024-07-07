@@ -1,19 +1,18 @@
 ---
-title: "Weekend à Cần Thơ - 1"
+title: 'Weekend à Cần Thơ - 1'
 date: '2014-10-24'
 pubDate: '2014-10-24'
-category: "travels"
-  - "vietnam"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "can-tho"
-  - "colocs"
-  - "motobike"
-  - "photo"
-  - "temple"
-  - "tourisme"
-  - "vietnam-2"
+  - 'can-tho'
+  - 'colocs'
+  - 'motobike'
+  - 'photo'
+  - 'temple'
+  - 'tourisme'
+  - 'vietnam-2'
 ---
 
 Le weekend dernier, j’ai fait la connaissance de Peter, un ami de mes colocataires. Jeune employé à Saigon, il est originaire d’un village non loin de Cần Thơ, une ville à 200km au sud de Saigon.

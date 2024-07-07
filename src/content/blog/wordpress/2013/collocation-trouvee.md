@@ -1,15 +1,13 @@
 ---
-title: "Collocation trouvée"
+title: 'Collocation trouvée'
 date: '2013-06-18'
 pubDate: '2013-06-18'
-category: "ifttt"
-  - "travels"
-  - "wien"
+category: 'travels'
 description: ''
 heroImage: '../../../../assets/images/te.jpg'
 tags:
-  - "colocs"
-  - "wien-2"
+  - 'colocs'
+  - 'wien-2'
 ---
 
 C'est bon, j'ai trouvé une collocation pour cet été, avec des étudiants Allemands et Autrichiens. ;)

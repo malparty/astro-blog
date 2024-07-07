@@ -1,9 +1,11 @@
 ---
-title: "Ke Ga - Tet Holidays 2016"
+title: 'Ke Ga - Tet Holidays 2016'
 date: '2016-02-12'
 pubDate: '2016-02-12'
-category: "travels"
-  - "vietnam"
+category: 'travels'
+description: ''
+heroImage: '../../../../assets/images/te.jpg'
+tags: []
 ---
 
 Pour le nouvel ans Vietnamien (le "Tet"), notre programme était assez original! :)
@@ -41,7 +43,5 @@ Ke Ga et ses pêcheurs
 [![Pêcheurs à sensations](http://malparty.fr/wp-content/uploads/2016/03/P2116983-1024x768.jpg)](http://malparty.fr/wp-content/uploads/2016/03/P2116983.jpg)
 
 Pêcheurs à sensations.
-
-
 
 Après ce passage à Ke Ga, rendez-vous sur les plages et les dunes de Mui Ne (à 50km au nord de Ke Ga).
