@@ -1,8 +1,14 @@
 // List of categories for blog posts
 export const CATEGORIES = [
-	'Category 1',
-	'Category 2',
-	'Category 3',
-	'Category 4',
-	'Category 5'
+	'China',
+	'travels',
+	'le-chez-soi',
+	'skyscrapercity',
+	'vietnam',
+	'vietnamese',
+	'conferences',
+	'learn',
+	'music',
+	'tech',
+	'wien'
 ] as const
