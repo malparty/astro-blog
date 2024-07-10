@@ -26,13 +26,13 @@ importers:
         version: 3.0.4
       '@astrojs/tailwind':
         specifier: 5.1.0
-        version: 5.1.0(astro@4.11.0(typescript@5.5.3))(tailwindcss@3.3.5)
+        version: 5.1.0(astro@4.11.0(typescript@5.5.3))(tailwindcss@3.4.4)
       '@pagefind/default-ui':
         specifier: ^1.1.0
         version: 1.1.0
       '@tailwindcss/typography':
         specifier: 0.5.13
-        version: 0.5.13(tailwindcss@3.3.5)
+        version: 0.5.13(tailwindcss@3.4.4)
       '@tinacms/cli':
         specifier: ^1.5.46
         version: 1.5.46(@babel/core@7.24.7)(@babel/template@7.24.7)(@types/react@18.3.3)(encoding@0.1.13)(react-dom@17.0.2(react@17.0.2))(react@17.0.2)(rollup@4.18.0)
@@ -85,8 +85,8 @@ importers:
         specifier: 2.3.0
         version: 2.3.0
       tailwindcss:
-        specifier: 3.3.5
-        version: 3.3.5
+        specifier: 3.4.4
+        version: 3.4.4
       tinacms:
         specifier: ^1.6.4
         version: 1.6.4(@babel/core@7.24.7)(@babel/template@7.24.7)(@types/react@18.3.3)(react-dom@17.0.2(react@17.0.2))(react@17.0.2)
@@ -5932,8 +5932,8 @@ packages:
   tailwind-merge@2.3.0:
     resolution: {integrity: sha512-vkYrLpIP+lgR0tQCG6AP7zZXCTLc1Lnv/CCRT3BqJ9CZ3ui2++GPaGb1x/ILsINIMSYqqvrpqjUFsMNLlW99EA==}
 
-  tailwindcss@3.3.5:
-    resolution: {integrity: sha512-5SEZU4J7pxZgSkv7FP1zY8i2TIAOooNZ1e/OGtxIEv6GltpoiXUqWvLy89+a10qYTB1N5Ifkuw9lqQkN9sscvA==}
+  tailwindcss@3.4.4:
+    resolution: {integrity: sha512-ZoyXOdJjISB7/BcLTR6SEsLgKtDStYyYZVLsUtWChO4Ps20CBad7lfJKVDiejocV4ME1hLmyY0WJE3hSDcmQ2A==}
     engines: {node: '>=14.0.0'}
     hasBin: true
 
@@ -6679,13 +6679,13 @@ snapshots:
       sitemap: 7.1.2
       zod: 3.23.8
 
-  '@astrojs/tailwind@5.1.0(astro@4.11.0(typescript@5.5.3))(tailwindcss@3.3.5)':
+  '@astrojs/tailwind@5.1.0(astro@4.11.0(typescript@5.5.3))(tailwindcss@3.4.4)':
     dependencies:
       astro: 4.11.0(typescript@5.5.3)
       autoprefixer: 10.4.19(postcss@8.4.39)
       postcss: 8.4.39
       postcss-load-config: 4.0.2(postcss@8.4.39)
-      tailwindcss: 3.3.5
+      tailwindcss: 3.4.4
     transitivePeerDependencies:
       - ts-node
 
@@ -7517,7 +7517,7 @@ snapshots:
   '@graphql-tools/optimize@1.4.0(graphql@15.8.0)':
     dependencies:
       graphql: 15.8.0
-      tslib: 2.4.1
+      tslib: 2.6.3
 
   '@graphql-tools/optimize@2.0.0(graphql@15.8.0)':
     dependencies:
@@ -7529,7 +7529,7 @@ snapshots:
       '@ardatan/relay-compiler': 12.0.0(encoding@0.1.13)(graphql@15.8.0)
       '@graphql-tools/utils': 9.2.1(graphql@15.8.0)
       graphql: 15.8.0
-      tslib: 2.4.1
+      tslib: 2.6.3
     transitivePeerDependencies:
       - encoding
       - supports-color
@@ -7563,7 +7563,7 @@ snapshots:
   '@graphql-tools/utils@8.13.1(graphql@15.8.0)':
     dependencies:
       graphql: 15.8.0
-      tslib: 2.4.1
+      tslib: 2.6.3
 
   '@graphql-tools/utils@9.2.1(graphql@15.8.0)':
     dependencies:
@@ -8349,21 +8349,21 @@ snapshots:
     dependencies:
       tslib: 2.6.3
 
-  '@tailwindcss/aspect-ratio@0.4.2(tailwindcss@3.3.5)':
+  '@tailwindcss/aspect-ratio@0.4.2(tailwindcss@3.4.4)':
     dependencies:
-      tailwindcss: 3.3.5
+      tailwindcss: 3.4.4
 
-  '@tailwindcss/line-clamp@0.3.1(tailwindcss@3.3.5)':
+  '@tailwindcss/line-clamp@0.3.1(tailwindcss@3.4.4)':
     dependencies:
-      tailwindcss: 3.3.5
+      tailwindcss: 3.4.4
 
-  '@tailwindcss/typography@0.5.13(tailwindcss@3.3.5)':
+  '@tailwindcss/typography@0.5.13(tailwindcss@3.4.4)':
     dependencies:
       lodash.castarray: 4.4.0
       lodash.isplainobject: 4.0.6
       lodash.merge: 4.6.2
       postcss-selector-parser: 6.0.10
-      tailwindcss: 3.3.5
+      tailwindcss: 3.4.4
 
   '@tanstack/react-virtual@3.8.1(react-dom@17.0.2(react@17.0.2))(react@17.0.2)':
     dependencies:
@@ -8390,7 +8390,7 @@ snapshots:
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
       react-router-dom: 6.3.0(react-dom@17.0.2(react@17.0.2))(react@17.0.2)
-      tailwindcss: 3.3.5
+      tailwindcss: 3.4.4
       tinacms: 1.6.4(@babel/core@7.24.7)(@babel/template@7.24.7)(@types/react@18.3.3)(react-dom@17.0.2(react@17.0.2))(react@17.0.2)
       typescript: 4.9.5
       zod: 3.23.8
@@ -8430,9 +8430,9 @@ snapshots:
       '@graphql-tools/load': 7.8.14(graphql@15.8.0)
       '@rollup/pluginutils': 5.1.0(rollup@4.18.0)
       '@svgr/core': 6.3.1
-      '@tailwindcss/aspect-ratio': 0.4.2(tailwindcss@3.3.5)
-      '@tailwindcss/line-clamp': 0.3.1(tailwindcss@3.3.5)
-      '@tailwindcss/typography': 0.5.13(tailwindcss@3.3.5)
+      '@tailwindcss/aspect-ratio': 0.4.2(tailwindcss@3.4.4)
+      '@tailwindcss/line-clamp': 0.3.1(tailwindcss@3.4.4)
+      '@tailwindcss/typography': 0.5.13(tailwindcss@3.4.4)
       '@tinacms/app': 1.2.42(@babel/core@7.24.7)(@babel/template@7.24.7)(@types/react@18.3.3)(yup@0.32.11)
       '@tinacms/datalayer': 1.2.35(react@17.0.2)
       '@tinacms/graphql': 1.4.35(react@17.0.2)
@@ -8477,7 +8477,7 @@ snapshots:
       prompts: 2.4.2
       readable-stream: 4.5.2
       rollup-plugin-visualizer: 5.12.0(rollup@4.18.0)
-      tailwindcss: 3.3.5
+      tailwindcss: 3.4.4
       tinacms: 1.6.4(@babel/core@7.24.7)(@babel/template@7.24.7)(@types/react@18.3.3)(react-dom@17.0.2(react@17.0.2))(react@17.0.2)
       typanion: 3.13.0
       typescript: 4.3.5
@@ -14701,7 +14701,7 @@ snapshots:
     dependencies:
       '@babel/runtime': 7.24.7
 
-  tailwindcss@3.3.5:
+  tailwindcss@3.4.4:
     dependencies:
       '@alloc/quick-lru': 5.2.0
       arg: 5.0.2
