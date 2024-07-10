@@ -35,13 +35,19 @@ jobs:
         run: pnpm run build
 
       - name: Upload to FTP Server
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.1.0
         with:
           server: ${{ secrets.FTP_SERVER }}
           port: 21
           protocol: ftp
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: www/
+          server-dir: /www/
           dry-run: false
           local-dir: ./dist/
+          log-level: verbose
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/wp-content/**
