@@ -15,6 +15,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Git config crlf
+        run: git config --global core.autocrlf false
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
