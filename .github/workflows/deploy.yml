@@ -45,9 +45,10 @@ jobs:
           server-dir: /www/
           dry-run: false
           local-dir: ./dist/
-          log-level: verbose
+          # log-level: verbose
           exclude: |
             **/.git*
             **/.git*/**
             **/node_modules/**
             **/wp-content/**
+            **/admin/**
