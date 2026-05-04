@@ -1,0 +1,27 @@
+---
+layout: base.njk
+---
+<section class="post-list">
+  {% for post in posts %}
+    <article class="post-summary">
+      <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+      <p class="post-meta">
+        <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+        {% if post.data.category %}
+          · <a href="/category/{{ post.data.category | slug }}/">{{ post.data.category }}</a>
+        {% endif %}
+      </p>
+      {% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}
+    </article>
+  {% endfor %}
+</section>
+
+<nav class="pagination">
+  {% if pagination.href.previous %}
+    <a href="{{ pagination.href.previous }}">&larr; Newer</a>
+  {% endif %}
+  <span>Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
+  {% if pagination.href.next %}
+    <a href="{{ pagination.href.next }}">Older &rarr;</a>
+  {% endif %}
+</nav>

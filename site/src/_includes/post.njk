@@ -1,0 +1,26 @@
+---
+layout: base.njk
+---
+<article class="post">
+  <header class="post-header">
+    <h1>{{ title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+      {% if category %}
+        · <a href="/category/{{ category | slug }}/">{{ category }}</a>
+      {% endif %}
+    </p>
+    {% if heroImage %}
+      <img class="hero" src="{{ heroImage }}" alt="" />
+    {% endif %}
+  </header>
+  <div class="post-body">
+    {{ content | safe }}
+  </div>
+  {% if tags and tags.length %}
+    <footer class="post-tags">
+      Tags:
+      {% for t in tags %}{% if t != 'post' %}<a href="/tag/{{ t | slug }}/">{{ t }}</a>{% if not loop.last %}, {% endif %}{% endif %}{% endfor %}
+    </footer>
+  {% endif %}
+</article>

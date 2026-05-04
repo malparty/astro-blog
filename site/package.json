@@ -1,0 +1,22 @@
+{
+  "name": "malparty-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal blog of Xavier Malparty",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rimraf _site",
+    "migrate": "node scripts/migrate.mjs"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.5"
+  }
+}

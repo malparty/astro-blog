@@ -1,0 +1,11 @@
+---
+layout: home.njk
+pagination:
+  data: collections.posts
+  size: 10
+  alias: posts
+  reverse: false
+permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+eleventyComputed:
+  title: "{% if pagination.pageNumber == 0 %}Home{% else %}Page {{ pagination.pageNumber + 1 }}{% endif %}"
+---

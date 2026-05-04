@@ -1,0 +1,10 @@
+---
+title: Landmark 81 HCM
+date: '2017-08-23'
+category: skyscrapercity
+tags: []
+description: ''
+heroImage: /images/hero/te.jpg
+---
+
+[![21032367_1534999299896336_507687413608677399_n](/images/wp/2017/08/21032367_1534999299896336_507687413608677399_n.jpg)](/images/wp/2017/08/21032367_1534999299896336_507687413608677399_n.jpg)

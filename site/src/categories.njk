@@ -1,0 +1,11 @@
+---
+layout: base.njk
+permalink: /categories/
+title: Categories
+---
+<h1>Categories</h1>
+<ul>
+  {% for c in collections.categoryList %}
+    <li><a href="/category/{{ c | slug }}/">{{ c }}</a></li>
+  {% endfor %}
+</ul>
