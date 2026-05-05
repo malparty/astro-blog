@@ -5,7 +5,7 @@ category: travels
 tags:
   - luxembourg
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2020/03/img_20200201_1446553567163535872810402.jpg
 ---
 
 ![](/images/wp/2020/03/img_20200201_1446553567163535872810402.jpg)

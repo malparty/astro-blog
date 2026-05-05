@@ -9,7 +9,7 @@ tags:
   - hue
   - vietnam-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2015/12/PB276742-600x450.jpg
 ---
 
 ---

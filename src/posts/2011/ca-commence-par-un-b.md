@@ -6,7 +6,7 @@ tags:
   - miammiam
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/biere_nba.jpg
 ---
 
 A première vue, voici une bouteille classique de TsingTao : une des bières locales qu'on trouve un peu partout... (souvent moins cher que l'eau pour ceux que ça intéresse...! ^^).

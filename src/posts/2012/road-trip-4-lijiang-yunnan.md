@@ -7,7 +7,7 @@ tags:
   - miammiam
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/P1301810.jpg
 ---
 
 Poursuite du voyage avec une journée intense : réveil à 4h du matin en direction de l’aéroport, et arrivée après le coucher du soleil, sans réservation d’hôtel et dans un contexte inattendu : une sorte d’Europaparck sans les attractions. Mais comme en Chine y’a jamais de problème, on a trouvé une chambre bien sympa, puis le programme des deux jours à venir.

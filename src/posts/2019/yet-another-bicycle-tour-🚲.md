@@ -6,7 +6,8 @@ tags:
   - bicycle
   - ho-chi-minh-city
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2020/03/img_20191124_1651392480839533709404503.jpg
 ---
 
 ![](https://malparty.cluster010.ovh.net/wp-content/uploads/2020/03/img_20191124_1651392480839533709404503.jpg)

@@ -8,7 +8,7 @@ tags:
   - voyage
   - zagreb
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/06/zagreb1.jpg
 ---
 
 Le séjour commença à Zagreb. Ville calme et touristique. Il fait chaud et le décor nous le rappelle...

@@ -8,7 +8,7 @@ tags:
   - quang-tri
   - vtt
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2017/02/wp-image-636939965jpg.jpg
 ---
 
 No one to move out ? Let's fix the old BMX and go for a ride of 30 km (with a BMX, trust me it's a lot !)

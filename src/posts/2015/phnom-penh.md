@@ -9,7 +9,7 @@ tags:
   - tourisme
   - visa
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2015/09/01PhnomPenhmin.jpg
 ---
 
 Cambodge... Cambodge... C'est marrent comme on peut être dépayser en ne bougeant que de 450km... :)

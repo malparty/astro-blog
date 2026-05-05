@@ -7,7 +7,7 @@ tags:
   - mouton
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/061.jpg
 ---
 
 Bon prélude : y’a un campus de l’université qui est assez excentré de Tianjin même… Ces derniers temps on y va un peu plus souvent puisque c’est là-bas qu’il y a les étudiants qui apprennent le Français…

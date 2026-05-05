@@ -6,7 +6,7 @@ tags:
   - shangrila
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/P1311931.jpg
 ---
 
 Dernière étape avant de rentrer à Tianjin : Shangrila. Un merveilleux bus nous y a emmené au travers le magnifiques paysages. C’était vraiment impressionnant : poursuivre une vallée étroite remplie de barrages avec au loin des sommets poudrés de neige et devant nous l’immense plateau tibétain…

@@ -9,7 +9,7 @@ tags:
   - vietnam-2
   - voyage
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/10/SpecialEgg.jpg
 ---
 
 A chaque fois que mes colocs me font gouter un nouveau plat bien local, ils me demandent si j'aime ou pas. Bien sûr, à chaque fois je réponds "Ahh, mais c'est trop trop bon ça !! :D". Alors à force, elles se sont posées des questions : "Est-ce qu'il dit ça pour nous faire plaisir, ou bien est-ce que c'est vraiment un bouffe-tout???".

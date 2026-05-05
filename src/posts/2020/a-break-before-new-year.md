@@ -5,7 +5,7 @@ category: travels
 tags:
   - nha-trang
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2020/03/received_12419118193433796462835359270389650.jpeg
 ---
 
 As we finally had a whole weekend free together, and during the low tourism season (2weeks before Tet), it was a perfect weekend for us to enjoy and rediscover Nha Trang!

@@ -6,7 +6,7 @@ tags:
   - hong-kong
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/013.jpg
 ---
 
 HongKong… Punaise, ça c’est quand même LA ville qui m’a le plus dépaysé… Et pourtant j’en ai vu des choses avant de venir ici…

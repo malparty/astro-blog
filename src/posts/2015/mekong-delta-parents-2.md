@@ -9,7 +9,7 @@ tags:
   - photo
   - riviere
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2015/09/Mekong-Delta-05min.jpg
 ---
 
 [![Mekong-Delta-05min](/images/wp/2015/09/Mekong-Delta-05min.jpg)](/images/wp/2015/09/Mekong-Delta-05.jpg)

@@ -8,7 +8,7 @@ tags:
   - tet
   - vietnam-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2017/01/wp-image-976905096jpg.jpg
 ---
 
 [![](/images/wp/2017/01/wp-image-976905096jpg.jpg)](/images/wp/2017/01/wp-image-976905096jpg.jpg)

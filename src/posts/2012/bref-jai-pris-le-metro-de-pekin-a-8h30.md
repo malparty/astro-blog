@@ -6,7 +6,7 @@ tags:
   - beijing
   - social-life
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/WP_000004.jpg
 ---
 
 Ce week end, on était vite fait à Pékin… Y’avait le frère de Camille à récupérer à l’aéroport, on en a profité pour faire les soldes… enfin, le fake market. Et puis il fallait que je récupère ma carte consulaire (qui me permettra de voter aux élections présidentielles...). Dommage que cette carte ne me permet de pas choisir plus facilement le candidat… Parce que c’est pas du gâteau ! (surtout que les infos ne circulent qu’à moitié jusqu’à ici alors niveau politique, humhum…).

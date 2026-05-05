@@ -8,7 +8,8 @@ tags:
   - saigon
   - skyline
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2021/01/image_editor_output_image516523213-16101919605835249926930437473469.jpg
 ---
 
 Clear sky was granted in France country side. So I never really paid attention to it.

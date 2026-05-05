@@ -9,7 +9,8 @@ tags:
   - reverb
   - synth
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2022/01/image-1024x269.png
 ---
 
 > Find the related code in the branch [002-reverb-effect](https://github.com/malparty/go-synth/tree/blog/002-reverb-effect)

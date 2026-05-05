@@ -9,7 +9,7 @@ tags:
   - tianjin
   - traditions
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/prepare_jiaozi2.jpg
 ---
 
 ... Les JiaoZi !!

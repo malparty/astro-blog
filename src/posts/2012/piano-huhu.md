@@ -7,7 +7,7 @@ tags:
   - social-life
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/011.jpg
 ---
 
 Rah mais comme ça fait plaisir de pouvoir faire à nouveau un peu de piano ! =)

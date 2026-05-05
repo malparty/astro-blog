@@ -6,7 +6,7 @@ tags:
   - bicycle
   - ho-chi-minh-city
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2020/03/img_20191130_144928417516071780846689.jpg
 ---
 
 <figure>

@@ -6,7 +6,7 @@ tags:
   - constructions
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/gare.jpg
 ---
 
 Pour se balader dans une nouvelle ville qu’on ne connait pas, il faut des repères… Quelque chose comme un plan serait bien évidemment pratique ! Le souci, c’est que les plans de la ville ne sont disponibles qu’en idéogrammes chinois… Hum… pas trop pratique… =/

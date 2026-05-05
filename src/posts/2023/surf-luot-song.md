@@ -5,7 +5,7 @@ category: learn
 tags:
   - surf
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: 'https://malparty.cluster010.ovh.net/wp-content/uploads/2023/10/image.png'
 ---
 
 thủy triều cao, thủy triều thấp (tide low/high)  

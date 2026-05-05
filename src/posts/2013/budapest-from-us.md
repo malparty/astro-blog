@@ -9,7 +9,7 @@ tags:
   - social-life
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/08/WP_000143-767x1024.jpg
 ---
 
 [![Budapest, ville alternative](/images/wp/2013/08/WP_000143-767x1024.jpg)](/images/wp/2013/08/WP_000143.jpg)

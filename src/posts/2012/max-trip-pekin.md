@@ -6,7 +6,7 @@ tags:
   - beijing
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/012.jpg
 ---
 
 Alors désolé pour ce long temps d’inactivité sur le Blog… N’ayant pas d’excuse valable, je propose de faire comme si de rien n’était ! na ! :p

@@ -8,7 +8,8 @@ tags:
   - strategy
   - wardley-maps
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2021/01/1_7nvPlCZIUkzwootj7AQayg-1024x722.png
 ---
 
 Thanks to Younès, I have discovered a few years ago the concept of "Wardley Maps".

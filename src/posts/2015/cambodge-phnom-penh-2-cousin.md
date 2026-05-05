@@ -7,7 +7,7 @@ tags:
   - cousin
   - phnom-penh
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2015/09/00PhnomPenhmin.jpg
 ---
 
 Puis après avoir mangé, on a rejoin la résidence de Doug. Chouette de profiter d'une vue à 360 deg sur la ville!

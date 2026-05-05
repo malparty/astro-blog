@@ -9,7 +9,7 @@ tags:
   - vietnam-2
   - voyage
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/10/lufthansa-emb195.jpg
 ---
 
 Après un weekend très chargé avec notamment le mariage de ma cousine, c’est partis pour une nouvelle aventure. Ça nous fait donc du samedi soir, couché à 5 heures du matin, dimanche soir, réveil réglé à 4h30 du matin… Histoire de bien commencer le jetlag dans le sens inverse ><.

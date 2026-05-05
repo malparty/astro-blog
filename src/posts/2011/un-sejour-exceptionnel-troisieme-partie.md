@@ -6,7 +6,7 @@ tags:
   - shanghai
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/25_dec1.jpg
 ---
 
 Aujourd’hui, c’est noël. Au programme, se promener et découvrir Shanghai.

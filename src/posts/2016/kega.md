@@ -4,7 +4,7 @@ date: '2016-02-12'
 category: travels
 tags: []
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2016/03/P2106953-1024x768.jpg
 ---
 
 Pour le nouvel ans Vietnamien (le "Tet"), notre programme était assez original! :)

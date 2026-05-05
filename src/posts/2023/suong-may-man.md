@@ -4,7 +4,8 @@ date: '2023-11-18'
 category: learn
 tags: []
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2023/11/suong_ehhhh-edited-scaled.jpg
 ---
 
 ## **Sướng** 🤗

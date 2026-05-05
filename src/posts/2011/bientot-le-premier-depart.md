@@ -6,7 +6,7 @@ tags:
   - photo
   - tristan
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/PA020334.jpg
 ---
 
 - Premier départ...? Ah parce qu'il y en a plusieurs...?

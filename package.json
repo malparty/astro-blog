@@ -7,7 +7,9 @@
     "dev": "eleventy --serve",
     "build": "eleventy",
     "clean": "rimraf _site",
-    "migrate": "node scripts/migrate.mjs"
+    "migrate": "node scripts/migrate.mjs",
+    "set-hero-images": "node scripts/set-hero-images.mjs",
+    "set-hero-images:dry": "node scripts/set-hero-images.mjs --dry-run"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",

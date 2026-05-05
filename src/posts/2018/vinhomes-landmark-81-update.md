@@ -4,7 +4,8 @@ date: '2018-01-08'
 category: skyscrapercity
 tags: []
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2018/01/img_20180107_1618582716960194603640098.jpg
 ---
 
 ![](https://malparty.cluster010.ovh.net/wp-content/uploads/2018/01/img_20180107_1618582716960194603640098.jpg)

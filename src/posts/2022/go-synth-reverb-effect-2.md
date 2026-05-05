@@ -11,7 +11,8 @@ tags:
   - sound
   - synth
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2022/01/image-7-1024x286.png
 ---
 
 After the [previous failure](https://malparty.cluster010.ovh.net/2022/01/go-synth-reverb-effect/), I decided to document myself at a minimum. I mainly used [this article](https://medium.com/the-seekers-project/coding-a-basic-reverb-algorithm-an-introduction-to-audio-programming-d5d90ad58bde) from [Rishikesh Daoo](https://medium.com/@rishikesh.daoo). I might consider reading some of his other articles as it's quite insightful!

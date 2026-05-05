@@ -7,7 +7,7 @@ tags:
   - haerbin
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/P1131394.jpg
 ---
 
 Après 15 heures de train en Seatless (billet sans siège attribué), le cours de géographie de 6ième a été vérifié : dans l’hémisphère Nord, plus on se déplace vers le Nord, plus il fait froid. Harbin, NOUS VOILA !

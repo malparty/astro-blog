@@ -8,7 +8,8 @@ tags:
   - dog
   - pets
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2021/01/img_20210108_1543042896599882218540212.jpg
 ---
 
 1 year old now!

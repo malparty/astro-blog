@@ -7,7 +7,8 @@ tags:
   - india
   - local-food
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2020/03/img_20191203_0838263481979124147612499.jpg
 ---
 
 ...and it was an incredible surprise! The team their is amazing, fun and diversified! Good job Mister Flo, good job you guys!!

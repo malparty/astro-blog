@@ -8,7 +8,7 @@ tags:
   - miammiam
   - vietnam-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/11/IMG_1139-765x1024.jpg
 ---
 
 Matin, réveil 7 heure, grosse journée en vue... 8 heure petit déjeunez au boulot (histoire de faire sécher la transpiration du vélo avant de commencer à bosser!) :D

@@ -7,7 +7,7 @@ tags:
   - social
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/repas_basketball.jpg
 ---
 
 Alors quoi que l’on puisse dire sur les Chinois, il y a une chose que je retiendrai à jamais, c’est l’accueil offert aux étrangers. Bon, j’ai peut-être aussi la chance d’être dans une ville qui n’est pas très touristiques, du coup les étrangers se font quand même assez rares. Mais grâce au Sport notamment, j’ai rencontré beaucoup de chinois (de tout âge), et tous m’ont accueilli avec le sourire, l’humour, etc…

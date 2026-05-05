@@ -9,7 +9,7 @@ tags:
   - local-life
   - vietnam-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/10/hotel.jpg
 ---
 
 Pour commencer mon séjour, je suis allé à l’hôtel. Mais cet aspect « instable » de l’hôtel est toujours un peu dérangeant et mon but était donc de trouver un logement le plus rapidement possible.

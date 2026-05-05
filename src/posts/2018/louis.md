@@ -4,7 +4,8 @@ date: '2018-07-22'
 category: vietnam
 tags: []
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2018/07/img_20180721_170715_17283430029798476955.jpg
 ---
 
 Not easy for a dog to live in a crawled city! So welcome for countryside Louis!

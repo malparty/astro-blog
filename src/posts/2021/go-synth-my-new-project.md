@@ -9,7 +9,8 @@ tags:
   - music
   - synth
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://nordiccoder.com/app/uploads/2019/12/44-t%C3%A0i-li%E1%BB%87u-h%E1%BB%8Dc-golang.png
 ---
 
 ![Tài liệu Golang bạn nên đọc ít nhất 1 lần trong đời - NordicCoder](https://nordiccoder.com/app/uploads/2019/12/44-t%C3%A0i-li%E1%BB%87u-h%E1%BB%8Dc-golang.png)

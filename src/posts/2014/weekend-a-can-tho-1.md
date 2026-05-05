@@ -11,7 +11,7 @@ tags:
   - tourisme
   - vietnam-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/10/PA185141.jpg
 ---
 
 Le weekend dernier, j’ai fait la connaissance de Peter, un ami de mes colocataires. Jeune employé à Saigon, il est originaire d’un village non loin de Cần Thơ, une ville à 200km au sud de Saigon.

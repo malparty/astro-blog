@@ -10,7 +10,7 @@ tags:
   - phnom-penh
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/12/cambodia_doug-2.jpg
 ---
 
 Bon, en attendant de rédiger des vrais articles avec du blabla, je voulais juste dire que j'ai passé un superbe weekend plein d'aventures et de retrouvailles ! :)

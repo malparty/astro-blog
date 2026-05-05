@@ -5,7 +5,7 @@ category: travels
 tags:
   - local-life
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/10/IMG_1078-e1413090208871.jpg
 ---
 
 Marre de faire attendre tous le monde en mettant ses chaussures à l'européenne? Ok, changeons cela!

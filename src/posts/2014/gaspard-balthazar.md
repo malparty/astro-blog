@@ -10,7 +10,7 @@ tags:
   - local-life
   - vietnam-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/11/GaspardEtBalthazar.jpg
 ---
 
 [![Gaspard et Balthazar](/images/wp/2014/11/GaspardEtBalthazar.jpg)](/images/wp/2014/11/GaspardEtBalthazar.jpg)

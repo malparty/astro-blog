@@ -6,7 +6,7 @@ tags:
   - beijing
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/P1251614.jpg
 ---
 
 Mes parents rejoignent le road trip pour 10 jours d’aventure et de dépaysement (y’a tout qui change par rapport à la France… tout… sauf moi !).

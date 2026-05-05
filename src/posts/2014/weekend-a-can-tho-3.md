@@ -11,7 +11,7 @@ tags:
   - vietnam-2
   - voyage
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/11/PA195247.jpg
 ---
 
 Dimanche, on se repose le matin, puis c’est parti pour reprendre la route en direction de Saigon. Oui, mais pas n’importe quelle route : pour passer par le village d’où sont originaire mes collocs, nous avons traversé le Mékong à bateau, puis emprunté des routes plus petites mais bien plus agréables que l’autoroute poussiéreuse ! =)

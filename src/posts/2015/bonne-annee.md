@@ -6,7 +6,7 @@ tags:
   - fireworks
   - party
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2015/01/happyGnuYear.jpg
 ---
 
 Bonne année à tous !! =) Une fois n'est pas coutume, la photo n'est pas de moi -- trouvée sur SkyScraper City :p

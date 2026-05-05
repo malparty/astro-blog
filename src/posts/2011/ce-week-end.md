@@ -6,7 +6,7 @@ tags:
   - social-life
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/soiree_avec_des_chinois_1.jpg
 ---
 
 Le week end dernier on a été invité à un double anniversaire de deux chinoises. Le truc bien c'est qu'on n'était que deux français avec que des chinois ! :p

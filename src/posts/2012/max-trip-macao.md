@@ -6,7 +6,7 @@ tags:
   - macao
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/014.jpg
 ---
 
 Macao… Terre coloniale du Portugal… On y parle le Cantonnais mais aussi le portugais, la TV possède les doubles sous-titre et les noms de rues sont aussi dans les deux langues…

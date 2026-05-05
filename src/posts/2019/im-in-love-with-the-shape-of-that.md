@@ -5,7 +5,7 @@ category: tech
 tags:
   - cyber-truck
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2020/03/tesla-1-14256099240380159736..jpg
 ---
 
 <figure>

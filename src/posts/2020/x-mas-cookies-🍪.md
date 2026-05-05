@@ -8,7 +8,8 @@ tags:
   - miammiam
   - noel
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2021/01/img_20201225_1157461068887117917191966.jpg
 ---
 
 Aka Vietnamese bredalas!

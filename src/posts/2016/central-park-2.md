@@ -4,7 +4,7 @@ date: '2016-12-02'
 category: skyscrapercity
 tags: []
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2016/12/wp-image-857563903jpg.jpg
 ---
 
 Some pictures of the view.

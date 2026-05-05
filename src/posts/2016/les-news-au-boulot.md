@@ -4,7 +4,7 @@ date: '2016-10-15'
 category: travels
 tags: []
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2016/10/received_10154565562873006.jpeg
 ---
 
 Et non, on ne chome pas ici! Entre le post-it art et les tournages videos, pas le temps de s'ennuyer!

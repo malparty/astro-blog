@@ -7,7 +7,7 @@ tags:
   - social-life
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/shanghai1.jpg
 ---
 
 L’objectif du voyage, c’est en premier lieu d’assister au mariage de Lei, un ami de la classe. Mais comme la route est longue jusqu’à la ville du mariage, nous avons eu cette magnifique chance de pouvoir fêter noël à Shanghai.

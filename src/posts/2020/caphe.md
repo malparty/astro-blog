@@ -8,7 +8,7 @@ tags:
   - social-life
   - vietnam-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2020/03/img_20200222_1106513278657437054493157.jpg
 ---
 
 ![](/images/wp/2020/03/img_20200222_1106513278657437054493157.jpg)

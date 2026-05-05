@@ -10,7 +10,7 @@ tags:
   - tay-ninh
   - vietnam-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2015/09/TayNinh01-sm.jpg
 ---
 
 Réveil matin très tôt pour visiter un  lac non loin de la montagne. C'est un lac artificiel mais immense ! Paysage de plage... sans plage! [![TayNinh01-sm](/images/wp/2015/09/TayNinh01-sm.jpg)](/images/wp/2015/09/TayNinh01.jpg)

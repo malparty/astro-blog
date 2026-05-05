@@ -4,7 +4,7 @@ date: '2013-07-02'
 category: le-chez-soi
 tags: []
 description: De retour à la maison...
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/07/P7013287_MOD-1024x576.jpg
 ---
 
 Comme avant chaque expédition, une petite session photos avec le master en la matière ([AVueDeCouCou](http://avuedecoucou.com/ "Photos Aériennes d'Alsace par Tristan Vuano")) s'improvise, histoire de passer un bon moment et surtout de reprendre les bons réflexes sur mon hybride. ;)

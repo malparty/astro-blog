@@ -6,7 +6,7 @@ tags:
   - miammiam
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/051.jpg
 ---
 
 Après vous parler de la nourriture chinoise, qui est à la fois peu chère et excellente… On va parler de ce qui fait que certaines personnes n’aimeraient pas du tout cette nourriture…

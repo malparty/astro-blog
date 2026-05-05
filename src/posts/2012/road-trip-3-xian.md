@@ -6,7 +6,7 @@ tags:
   - tourisme
   - xian
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/P1261652.jpg
 ---
 
 Suite du voyage, direction le centre de la Chine dans une ville très ancienne : XiAn. On en apprend beaucoup sur la culture Chinoise, quelques traditions, quelques faits divers sur les empereurs, sur différents bâtiments (pagodes, bells tower et drum tower, tombeaux, remparts, etc…). Mais bon, si déjà je trouvais que l’histoire de la France c’est pas de la tarte, ben là, c’est la horriblement compliqué… Pour retenir, la plus part des grands monuments nous provienne de délires d’empereurs qui, ayant grandis dans un environnement très (trop) protégé, n’avaient malheureusement aucune idée du monde réel et donc aucun repère pour mesurer leurs folies…

@@ -8,7 +8,7 @@ tags:
   - germany
   - lufthansa
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2016/01/img_1804.jpeg
 ---
 
 Et bien il est moderne, géant, exemplaire et bien organisé.

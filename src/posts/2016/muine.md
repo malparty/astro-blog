@@ -9,7 +9,7 @@ tags:
   - plage
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2016/03/P2116989-1024x768.jpg
 ---
 
 Après Ke Ga on est donc allé sur Mui Ne où les plages sont plus convoités mais surtout plus propres (Ke Ga est beau de loin mais les plages sont pleines de plastique et autre déchets malheureusement).

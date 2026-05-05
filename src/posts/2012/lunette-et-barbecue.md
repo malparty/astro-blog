@@ -8,7 +8,7 @@ tags:
   - social-life
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/WP_000010.jpg
 ---
 
 Roh mais bien entendu, vous avez de suite fait le rapprochement entre Lunette et Barbecue ! Non... non, ce n'est pas du Chinois... Y'a juste aucun lien... A moins que ce soit mes deux activités de ce week end...?

@@ -5,7 +5,7 @@ category: travels
 tags:
   - miammiam
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2016/10/received_10154565563808006-1.jpg
 ---
 
 La cuisine du Vietnam est extrêmement variée. Aujouurdhui encore je découvre des plats nouveaux. Les voici!

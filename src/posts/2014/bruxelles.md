@@ -7,7 +7,7 @@ tags:
   - bruxelles
   - supinfo-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/04/20140321_175822584_iOS-e1396801817252-764x1024.jpg
 ---
 
 Bruxelles est une ville très chouette... ou pas ! Oui, pour sortir et rencontrer des gens sympa, ça ne fait pas de doute : ce n'est pas les endroits qui manquent, et les gens sont globalement très accueillant et de bonne humeur. Mais pour le reste, je suis déjà plus mitigé... Une voirie défoncée (et le mot reste faible) et plein de pavés irréguliers, des déchets plein les rues, pas de poubelles solides, juste des sacs bouffés par les corbeaux qui envahissent les rues deux fois par semaine... Des Villo (vélibs) très mal entretenus (à plat, déraillé, guidon tordu, freins cassés, et j'en passe), une météo assez déprimante, des "maisons de maîtres" qui sont en fait des maisons anciennes très mal entretenues, mal isolées et très peu pratiques de conception (oui parce qu'on n'a plus de valets donc inutile d'avoir 2 portes d'entrées !). Des parcs interdits aux rollers/vélos, des klaxons en outrance, des bouchons et, ironie du sort, des transports en communs qui ne sont pas "pratiques" pour les habitants... Bref, on m'avait prévenu que le Manneken-Pis ne serait pas une grande découverte, mais pour une ville "capitale Européenne", bah oui, je m'attendais à bien mieux !

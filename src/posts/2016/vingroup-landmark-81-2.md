@@ -4,7 +4,7 @@ date: '2016-03-23'
 category: skyscrapercity
 tags: []
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2016/03/P3207083-1024x768.jpg
 ---
 
 [![OLYMPUS DIGITAL CAMERA](/images/wp/2016/03/P3207083-1024x768.jpg)](/images/wp/2016/03/P3207083.jpg)

@@ -6,7 +6,7 @@ tags:
   - digitakt
   - elektron
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2020/03/img_20191023_110424761300490030040631.jpg
 ---
 
 ![](/images/wp/2020/03/img_20191023_110424761300490030040631.jpg)

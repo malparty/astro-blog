@@ -9,7 +9,7 @@ tags:
   - phnom-phen
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/12/PB285520_sm.jpg
 ---
 
 Bon, une chose est sûre : au Cambodge on mange tout aussi bien qu’au Vietnam, même si c’est différent ! ;)

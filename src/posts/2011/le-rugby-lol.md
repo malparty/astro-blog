@@ -6,7 +6,7 @@ tags:
   - rugby
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/final_rugby.jpg
 ---
 
 Bon, alors ce n'est vraiment pas mon truc, mais voilà, on a suivi la finale de Rugby dans un bar perdu au milieu de la Ville, le Truemann ! :p

@@ -12,7 +12,7 @@ tags:
   - vietnam-2
   - voyage
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/11/PB235460_sm.jpg
 ---
 
 Ce weekend, c'était sortie camping dans la région de Tay Ninh. L'objectif étant de faire un levé de soleil sur la "Black Virgin Mountain" (Núi Bà Đen). Bon, la météo ne nous à pas permis de faire le lever du soleil et j'vais vous raconter ça en détail dans le second article sur ce weekend. Mais c'était quand même bien fun et l'endroit était bien sympa ! (malgré la mentalités des gens qui jettent déchets et détritus partout par terre dans la montagne !! ><).

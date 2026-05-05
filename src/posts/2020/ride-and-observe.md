@@ -5,7 +5,7 @@ category: travels
 tags:
   - bicycle
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2020/03/img_20200128_1628262170026978902686822.jpg
 ---
 
 This was in a small village near Cau Phu My bridge.

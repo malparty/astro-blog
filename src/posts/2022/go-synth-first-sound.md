@@ -9,7 +9,8 @@ tags:
   - saw
   - synth
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2022/01/image-3-1024x240.png
 ---
 
 > Find the related code in the branch [blog/001-simple-saw-oscillator](https://github.com/malparty/go-synth/tree/blog/001-simple-saw-oscillator)

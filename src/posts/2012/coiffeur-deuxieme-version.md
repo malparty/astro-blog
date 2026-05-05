@@ -6,7 +6,7 @@ tags:
   - social-life
   - tianjin
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/041.jpg
 ---
 
 Aller, aujourd’hui, vu que le vent commence un peu à décoiffer, j’me suis dit qu’il fallait raccourcir de nouveau ça !

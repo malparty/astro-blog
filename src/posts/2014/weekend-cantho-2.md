@@ -13,7 +13,7 @@ tags:
   - vietnam-2
   - voyage
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2014/11/PA185203.jpg
 ---
 
 Le samedi soir, après toutes ces visites, nous sommes arrivés chez la famille de Peter. Une famille très accueillante, dans une maison très vietnamienne : salle de vie en premier plan (qui est aussi la chambre à coucher), puis chambres des enfants/invités, puis la cuisine derrière. Cette dernière est à l’intérieur et à l’extérieur. =)

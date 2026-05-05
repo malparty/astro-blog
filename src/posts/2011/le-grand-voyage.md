@@ -6,7 +6,7 @@ tags:
   - avion
   - beijing
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/survol_pekin.jpg
 ---
 
 Pfiou, c’est bon, j’ai enfin parcouru toute cette distance ! Heureusement que je n’étais pas seul, ça fait passer le temps et ça rassure quand même !

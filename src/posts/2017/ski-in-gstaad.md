@@ -9,7 +9,7 @@ tags:
   - snow
   - switzerland
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2017/01/wp-image-200956884jpg.jpg
 ---
 
 The only half-day of ski for this season!! Trust me, I did enjoy that one!!!

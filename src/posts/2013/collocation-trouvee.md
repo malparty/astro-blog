@@ -6,7 +6,8 @@ tags:
   - colocs
   - wien-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  /images/wp/2013/06/mercerstudie_wien_erneut_lebenswerteste_wien20121204155953_v0_h.jpg
 ---
 
 C'est bon, j'ai trouvé une collocation pour cet été, avec des étudiants Allemands et Autrichiens. ;)

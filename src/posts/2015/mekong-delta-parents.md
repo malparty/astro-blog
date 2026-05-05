@@ -9,7 +9,7 @@ tags:
   - hue
   - vietnam-2
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2015/09/MekongBridge-min.jpg
 ---
 
 [![Bridge on Mekong Delta](/images/wp/2015/09/MekongBridge-min.jpg)](/images/wp/2015/09/MekongBridge.jpg)

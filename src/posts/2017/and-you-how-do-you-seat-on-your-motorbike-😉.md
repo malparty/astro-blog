@@ -5,7 +5,8 @@ category: vietnam
 tags:
   - motorbike
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: >-
+  https://malparty.cluster010.ovh.net/wp-content/uploads/2017/11/20171104_1217291375128636.jpg
 ---
 
 ![](https://malparty.cluster010.ovh.net/wp-content/uploads/2017/11/20171104_1217291375128636.jpg)

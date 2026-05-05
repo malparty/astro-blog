@@ -8,7 +8,7 @@ tags:
   - photo
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/08/buda_art_2-1024x768.jpg
 ---
 
 [![Budapest Art](/images/wp/2013/08/buda_art_2-1024x768.jpg)](/images/wp/2013/08/buda_art_2.jpg)

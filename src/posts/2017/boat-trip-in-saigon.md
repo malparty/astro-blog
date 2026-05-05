@@ -4,7 +4,7 @@ date: '2017-02-15'
 category: travels
 tags: []
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2017/02/wp-1487168387146.jpg
 ---
 
 [![](/images/wp/2017/02/wp-1487168387146.jpg)](/images/wp/2017/02/wp-1487168387146.jpg)

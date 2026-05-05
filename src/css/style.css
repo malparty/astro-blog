@@ -513,13 +513,19 @@ main {
   box-shadow: 0 10px 36px var(--shadow-md);
 }
 
+/* Cap featured card image height on mobile (single-column, full-width) */
+.post-card--featured .post-card__image-wrap {
+  max-height: 200px;
+}
+
 @media (min-width: 680px) {
   .post-card--featured {
     grid-template-columns: 1fr 1fr;
   }
   .post-card--featured .post-card__image-wrap {
     aspect-ratio: auto;
-    min-height: 280px;
+    min-height: 160px;
+    max-height: 240px;
   }
 }
 

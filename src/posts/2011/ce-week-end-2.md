@@ -7,7 +7,7 @@ tags:
   - tianjin
   - tourisme
 description: ''
-heroImage: /images/hero/te.jpg
+heroImage: /images/wp/2013/05/hokey_sur_glac.jpg
 ---
 
 ... il faisait froid (encore ^^). Du coup y'avait des joueurs de Hockey sur les plan d'eau public :
