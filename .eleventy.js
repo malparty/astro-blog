@@ -7,6 +7,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
   eleventyConfig.addPassthroughCopy({ 'src/css': 'css' });
+  eleventyConfig.addPassthroughCopy({ 'src/js': 'js' });
 
   // Markdown
   const md = markdownIt({ html: true, linkify: true, typographer: true }).use(
@@ -45,6 +46,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter('limit', (arr, n) => arr.slice(0, n));
+  eleventyConfig.addFilter('skip', (arr, n) => arr.slice(n));
 
   eleventyConfig.addFilter('absoluteUrl', (url, base) => {
     try {

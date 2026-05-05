@@ -1,27 +1,118 @@
 ---
 layout: base.njk
 ---
-<section class="post-list">
-  {% for post in posts %}
-    <article class="post-summary">
-      <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
-      <p class="post-meta">
-        <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-        {% if post.data.category %}
-          · <a href="/category/{{ post.data.category | slug }}/">{{ post.data.category }}</a>
-        {% endif %}
-      </p>
-      {% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}
-    </article>
-  {% endfor %}
-</section>
+<div class="home-wrap">
 
-<nav class="pagination">
-  {% if pagination.href.previous %}
-    <a href="{{ pagination.href.previous }}">&larr; Newer</a>
+  {% if posts.length == 0 %}
+    <p style="color:var(--muted)">No posts yet — check back soon!</p>
+
+  {% elif pagination.pageNumber == 0 %}
+
+    {# ── Featured: first post ── #}
+    {% set fp = posts[0] %}
+    <article class="post-card post-card--featured">
+      <a class="post-card__image-wrap" href="{{ fp.url }}" tabindex="-1" aria-hidden="true">
+        {% if fp.data.heroImage %}
+          <img src="{{ fp.data.heroImage }}" alt="" class="post-card__image" loading="eager">
+        {% else %}
+          <div class="post-card__image-placeholder">🌿</div>
+        {% endif %}
+      </a>
+      <div class="post-card__body">
+        <div class="post-card__meta">
+          <time datetime="{{ fp.date | htmlDateString }}">{{ fp.date | readableDate }}</time>
+          {% if fp.data.category %}
+            <a href="/category/{{ fp.data.category | slug }}/" class="post-card__cat">{{ fp.data.category }}</a>
+          {% endif %}
+        </div>
+        <h2 class="post-card__title post-card__title--lg">
+          <a href="{{ fp.url }}">{{ fp.data.title }}</a>
+        </h2>
+        {% if fp.data.description %}
+          <p class="post-card__excerpt">{{ fp.data.description }}</p>
+        {% endif %}
+        <a href="{{ fp.url }}" class="post-card__read-more">Read article</a>
+      </div>
+    </article>
+
+    {# ── Grid: remaining posts ── #}
+    {% if posts.length > 1 %}
+      <div class="post-grid">
+        {% for post in posts %}{% if not loop.first %}
+          <article class="post-card">
+            <a class="post-card__image-wrap" href="{{ post.url }}" tabindex="-1" aria-hidden="true">
+              {% if post.data.heroImage %}
+                <img src="{{ post.data.heroImage }}" alt="" class="post-card__image" loading="lazy">
+              {% else %}
+                <div class="post-card__image-placeholder">🌿</div>
+              {% endif %}
+            </a>
+            <div class="post-card__body">
+              <div class="post-card__meta">
+                <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+                {% if post.data.category %}
+                  <a href="/category/{{ post.data.category | slug }}/" class="post-card__cat">{{ post.data.category }}</a>
+                {% endif %}
+              </div>
+              <h2 class="post-card__title">
+                <a href="{{ post.url }}">{{ post.data.title }}</a>
+              </h2>
+              {% if post.data.description %}
+                <p class="post-card__excerpt">{{ post.data.description }}</p>
+              {% endif %}
+              <a href="{{ post.url }}" class="post-card__read-more">Read more</a>
+            </div>
+          </article>
+        {% endif %}{% endfor %}
+      </div>
+    {% endif %}
+
+  {% else %}
+
+    {# ── Subsequent pages: all in grid ── #}
+    <div class="post-grid">
+      {% for post in posts %}
+        <article class="post-card">
+          <a class="post-card__image-wrap" href="{{ post.url }}" tabindex="-1" aria-hidden="true">
+            {% if post.data.heroImage %}
+              <img src="{{ post.data.heroImage }}" alt="" class="post-card__image" loading="lazy">
+            {% else %}
+              <div class="post-card__image-placeholder">🌿</div>
+            {% endif %}
+          </a>
+          <div class="post-card__body">
+            <div class="post-card__meta">
+              <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+              {% if post.data.category %}
+                <a href="/category/{{ post.data.category | slug }}/" class="post-card__cat">{{ post.data.category }}</a>
+              {% endif %}
+            </div>
+            <h2 class="post-card__title">
+              <a href="{{ post.url }}">{{ post.data.title }}</a>
+            </h2>
+            {% if post.data.description %}
+              <p class="post-card__excerpt">{{ post.data.description }}</p>
+            {% endif %}
+            <a href="{{ post.url }}" class="post-card__read-more">Read more</a>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+
   {% endif %}
-  <span>Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
-  {% if pagination.href.next %}
-    <a href="{{ pagination.href.next }}">Older &rarr;</a>
-  {% endif %}
-</nav>
+
+  <nav class="pagination" aria-label="Pagination">
+    {% if pagination.href.previous %}
+      <a href="{{ pagination.href.previous }}">&larr; Newer</a>
+    {% else %}
+      <span></span>
+    {% endif %}
+    <span>Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
+    {% if pagination.href.next %}
+      <a href="{{ pagination.href.next }}">Older &rarr;</a>
+    {% else %}
+      <span></span>
+    {% endif %}
+  </nav>
+
+</div>

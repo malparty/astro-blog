@@ -2,25 +2,44 @@
 layout: base.njk
 ---
 <article class="post">
+
+  {% if heroImage %}
+  <div class="post-hero-split">
+    <div class="post-hero-panel">
+      <img src="{{ heroImage }}" alt="" class="post-hero-img" loading="eager">
+    </div>
+    <div class="post-hero-text">
+  {% endif %}
+
   <header class="post-header">
-    <h1>{{ title }}</h1>
-    <p class="post-meta">
+    <div class="post-meta-row">
       <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
       {% if category %}
-        · <a href="/category/{{ category | slug }}/">{{ category }}</a>
+        <a href="/category/{{ category | slug }}/" class="post-cat">{{ category }}</a>
       {% endif %}
-    </p>
-    {% if heroImage %}
-      <img class="hero" src="{{ heroImage }}" alt="" />
+    </div>
+    <h1 class="post-title">{{ title }}</h1>
+    {% if description %}
+      <p class="post-desc">{{ description }}</p>
     {% endif %}
   </header>
+
   <div class="post-body">
     {{ content | safe }}
   </div>
-  {% if tags and tags.length %}
-    <footer class="post-tags">
-      Tags:
-      {% for t in tags %}{% if t != 'post' %}<a href="/tag/{{ t | slug }}/">{{ t }}</a>{% if not loop.last %}, {% endif %}{% endif %}{% endfor %}
+
+  {% if tags and tags | length %}
+    <footer class="post-foot">
+      <span>Tags:</span>
+      {% for t in tags %}{% if t != 'post' %}
+        <a href="/tag/{{ t | slug }}/" class="post-tag">{{ t }}</a>
+      {% endif %}{% endfor %}
     </footer>
   {% endif %}
+
+  {% if heroImage %}
+    </div>{# /.post-hero-text #}
+  </div>{# /.post-hero-split #}
+  {% endif %}
+
 </article>

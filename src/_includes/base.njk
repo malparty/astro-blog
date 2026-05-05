@@ -1,28 +1,204 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{% if title %}{{ title }} — {% endif %}{{ site.title }}</title>
-    <meta name="description" content="{{ description or site.description }}" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml" />
-  </head>
-  <body>
-    <header class="site-header">
-      <a href="/" class="site-title">{{ site.title }}</a>
-      <nav>
-        <a href="/">Home</a>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} — {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <!-- Anti-FOUC: apply stored theme before first paint -->
+  <script>(function(){var t=localStorage.getItem('malparty-theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);}());</script>
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,700;0,9..144,900;1,9..144,700&family=DM+Sans:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+</head>
+<body>
+
+  <!-- ===== ANIMATED MEADOW SCENE ===== -->
+  <div class="meadow-scene" aria-hidden="true">
+
+    <!-- Sun (light) / Moon (dark) -->
+    <div class="scene-cel"></div>
+
+    <!-- Drifting clouds -->
+    <div class="scene-clouds">
+      <div class="cloud cloud-1"></div>
+      <div class="cloud cloud-2"></div>
+      <div class="cloud cloud-3"></div>
+    </div>
+
+    <!-- Particle canvas (fireflies / dandelion seeds) -->
+    <canvas class="particles-canvas"></canvas>
+
+    <!-- Grass — back layer -->
+    <svg class="grass grass-far" viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,50 C80,25 160,58 240,32 C320,8 400,48 480,28 C560,8 640,44 720,22 C800,2 880,40 960,20 C1040,2 1120,36 1200,18 C1280,1 1360,30 1440,15 L1440,100 L0,100 Z" fill="var(--grass-far)"/>
+    </svg>
+
+    <!-- Sheep (sits between back and mid grass) -->
+    <div class="sheep-walker" role="img" aria-label="A cartoon sheep wandering in the meadow">
+      <div class="sheep-flipper">
+        <svg class="sheep-svg" viewBox="0 0 100 70" xmlns="http://www.w3.org/2000/svg">
+          <!-- Shadow -->
+          <ellipse cx="52" cy="68" rx="24" ry="3" fill="rgba(0,0,0,.13)"/>
+          <!-- Tail -->
+          <circle cx="18" cy="40" r="8" fill="#f0ebe4"/>
+          <!-- Body wool — overlapping circles for fluffiness -->
+          <circle cx="30" cy="44" r="13" fill="#ece7e1"/>
+          <circle cx="43" cy="40" r="18" fill="#f5f0ea"/>
+          <circle cx="57" cy="37" r="15" fill="#f2ede7"/>
+          <circle cx="45" cy="28" r="13" fill="#f0ebe4"/>
+          <circle cx="58" cy="27" r="11" fill="#ece7e1"/>
+          <circle cx="31" cy="50" r="9"  fill="#e8e3dd"/>
+          <circle cx="55" cy="48" r="9"  fill="#e8e3dd"/>
+          <!-- Head -->
+          <ellipse cx="75" cy="37" rx="12" ry="13" fill="#3d2b1a"/>
+          <!-- Ear -->
+          <ellipse cx="67" cy="24" rx="5" ry="8" fill="#3d2b1a" transform="rotate(-18 67 24)"/>
+          <ellipse cx="67" cy="25" rx="3" ry="5" fill="#8b5e3c" transform="rotate(-18 67 25)"/>
+          <!-- Snout -->
+          <ellipse cx="83" cy="43" rx="7" ry="5.5" fill="#5a3d28"/>
+          <ellipse cx="80" cy="44" rx="1.8" ry="1.4" fill="#2a1a0f"/>
+          <ellipse cx="86" cy="44" rx="1.8" ry="1.4" fill="#2a1a0f"/>
+          <!-- Eye -->
+          <circle cx="73" cy="33" r="4" fill="white"/>
+          <circle cx="74" cy="33" r="2.5" fill="#1a1206"/>
+          <circle cx="75.5" cy="31.8" r="0.9" fill="white"/>
+          <!-- Legs — diagonal pairs share animation phase via .alt class -->
+          <rect class="sheep-leg"     x="30" y="55" width="5" height="13" rx="2.5" fill="#2d1e0f"/>
+          <rect class="sheep-leg alt" x="39" y="55" width="5" height="13" rx="2.5" fill="#2d1e0f"/>
+          <rect class="sheep-leg alt" x="50" y="55" width="5" height="13" rx="2.5" fill="#3d2b1a"/>
+          <rect class="sheep-leg"     x="59" y="55" width="5" height="13" rx="2.5" fill="#3d2b1a"/>
+        </svg>
+      </div>
+    </div>
+
+    <!-- Grass — mid layer (overlaps sheep's legs) -->
+    <svg class="grass grass-mid" viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,38 C60,14 120,44 180,22 C240,2 300,36 360,18 C420,0 480,32 540,14 C600,0 660,28 720,12 C780,0 840,24 900,10 C960,0 1020,20 1080,8 C1140,0 1200,16 1260,6 C1320,0 1380,12 1440,5 L1440,100 L0,100 Z" fill="var(--grass-mid)"/>
+    </svg>
+
+    <!-- Grass — near layer (foreground blades, highest z-index) -->
+    <svg class="grass grass-near" viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,32 L18,6 L36,36 L54,10 L72,38 L90,8 L108,34 L126,12 L150,40 L168,6 L186,36 L210,10 L228,38 L252,8 L270,34 L294,12 L318,40 L336,8 L360,34 L384,10 L408,38 L432,6 L456,36 L480,12 L504,40 L522,8 L546,34 L570,10 L594,38 L612,6 L636,36 L660,12 L684,40 L702,8 L726,34 L750,10 L774,38 L792,6 L816,36 L840,12 L864,40 L882,8 L906,34 L930,10 L954,38 L972,6 L996,36 L1020,12 L1044,40 L1062,8 L1086,34 L1110,10 L1134,38 L1152,6 L1176,36 L1200,12 L1224,40 L1242,8 L1266,34 L1290,10 L1314,38 L1332,6 L1356,36 L1380,12 L1410,40 L1440,18 L1440,100 L0,100 Z" fill="var(--grass-near)"/>
+    </svg>
+  </div>
+
+  <!-- ===== PAGE LAYOUT ===== -->
+  <div class="page-layout">
+
+    <!-- Sidebar (desktop only) -->
+    <aside class="sidebar">
+      <a href="/" class="sidebar__brand">
+        {{ site.title }}
+        <span class="sidebar__tagline">Personal blog</span>
+      </a>
+
+      <div class="theme-switcher" role="group" aria-label="Color theme">
+        <button class="theme-btn" data-theme-btn="system" aria-pressed="true" title="System theme">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">
+            <rect x="2" y="3" width="16" height="11" rx="2"/>
+            <path d="M7 17h6M10 14v3"/>
+          </svg>
+        </button>
+        <button class="theme-btn" data-theme-btn="light" aria-pressed="false" title="Light theme">
+          <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <circle cx="10" cy="10" r="4"/>
+            <path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"
+              d="M10 2v2M10 16v2M2 10h2M16 10h2M4.9 4.9l1.4 1.4M13.7 13.7l1.4 1.4M4.9 15.1l1.4-1.4M13.7 6.3l1.4-1.4"/>
+          </svg>
+        </button>
+        <button class="theme-btn" data-theme-btn="dark" aria-pressed="false" title="Dark theme">
+          <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <path d="M17.5 12.5A7.5 7.5 0 0 1 8 3a7 7 0 1 0 9.5 9.5z"/>
+          </svg>
+        </button>
+      </div>
+
+      <hr class="sidebar-sep">
+
+      <nav class="sidebar-nav" aria-label="Main navigation">
+        <a href="/">🏠 Home</a>
+        <a href="/categories/">🗂 Categories</a>
+        <a href="/tags/">🏷 Tags</a>
+        <a href="/feed.xml">📡 RSS</a>
+      </nav>
+
+      <hr class="sidebar-sep">
+
+      <div class="sidebar-section">
+        <h3>Recent Posts</h3>
+        <ul>
+          {% for post in collections.posts | limit(6) %}
+            <li><a href="{{ post.url }}" title="{{ post.data.title }}">{{ post.data.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <hr class="sidebar-sep">
+
+      <div class="sidebar-section">
+        <h3>Categories</h3>
+        <ul>
+          {% for cat in collections.categoryList %}
+            <li><a href="/category/{{ cat | slug }}/">{{ cat }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <div class="main-wrap">
+
+      <!-- Mobile topbar (hidden on desktop) -->
+      <header class="topbar">
+        <a href="/" class="topbar__brand">{{ site.title }}</a>
+        <nav class="topbar__nav" aria-label="Main navigation">
+          <a href="/">Home</a>
+          <a href="/categories/">Categories</a>
+          <a href="/tags/">Tags</a>
+          <a href="/feed.xml">RSS</a>
+        </nav>
+        <div class="theme-switcher" role="group" aria-label="Color theme">
+          <button class="theme-btn" data-theme-btn="system" aria-pressed="true" title="System">
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">
+              <rect x="2" y="3" width="16" height="11" rx="2"/>
+              <path d="M7 17h6M10 14v3"/>
+            </svg>
+          </button>
+          <button class="theme-btn" data-theme-btn="light" aria-pressed="false" title="Light">
+            <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <circle cx="10" cy="10" r="4"/>
+              <path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"
+                d="M10 2v2M10 16v2M2 10h2M16 10h2M4.9 4.9l1.4 1.4M13.7 13.7l1.4 1.4M4.9 15.1l1.4-1.4M13.7 6.3l1.4-1.4"/>
+            </svg>
+          </button>
+          <button class="theme-btn" data-theme-btn="dark" aria-pressed="false" title="Dark">
+            <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path d="M17.5 12.5A7.5 7.5 0 0 1 8 3a7 7 0 1 0 9.5 9.5z"/>
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <main>
+        {{ content | safe }}
+      </main>
+
+      <footer class="site-footer">
+        <span>&copy; {{ site.author }}</span>
+        <a href="/feed.xml">RSS Feed</a>
         <a href="/categories/">Categories</a>
         <a href="/tags/">Tags</a>
-        <a href="/feed.xml">RSS</a>
-      </nav>
-    </header>
-    <main>
-      {{ content | safe }}
-    </main>
-    <footer class="site-footer">
-      <p>&copy; {{ '' | readableDate }} {{ site.author }}</p>
-    </footer>
-  </body>
+      </footer>
+
+    </div><!-- /.main-wrap -->
+  </div><!-- /.page-layout -->
+
+  <script src="/js/theme.js"></script>
+  <script src="/js/sheep.js"></script>
+  <script src="/js/particles.js"></script>
+</body>
 </html>

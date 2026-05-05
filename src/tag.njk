@@ -8,14 +8,16 @@ permalink: "/tag/{{ tag | slug }}/"
 eleventyComputed:
   title: "Tag: {{ tag }}"
 ---
-<h1>Tag: {{ tag }}</h1>
-<ul class="post-list">
-  {% for post in collections.posts %}
-    {% if tag in (post.data.tags or []) %}
-      <li>
-        <a href="{{ post.url }}">{{ post.data.title }}</a>
-        <span class="post-meta"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></span>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+<div class="list-page">
+  <h1>Tag: {{ tag }}</h1>
+  <ul class="post-list">
+    {% for post in collections.posts %}
+      {% if tag in (post.data.tags or []) %}
+        <li>
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
+          <span class="post-meta"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></span>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
