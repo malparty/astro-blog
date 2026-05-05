@@ -9,7 +9,9 @@
     "clean": "rimraf _site",
     "migrate": "node scripts/migrate.mjs",
     "set-hero-images": "node scripts/set-hero-images.mjs",
-    "set-hero-images:dry": "node scripts/set-hero-images.mjs --dry-run"
+    "set-hero-images:dry": "node scripts/set-hero-images.mjs --dry-run",
+    "deploy": "npm run build && wrangler deploy",
+    "preview": "npm run build && wrangler dev"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
@@ -19,6 +21,7 @@
     "markdown-it-anchor": "^9.2.0"
   },
   "devDependencies": {
-    "rimraf": "^5.0.5"
+    "rimraf": "^5.0.5",
+    "wrangler": "^4.87.0"
   }
 }
